@@ -1,0 +1,216 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 6
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 1
+                    [ACTIVE] => 1
+                    [EMAIL] => alex.isaev@wow-how.com
+                    [NAME] => Alex
+                    [LAST_NAME] => Isaev
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => M
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/d21/d2198ff5df59cdb76bbcad23d788d56d/Alex.Isaev.jpg
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380664083222
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Co-founder and General Manager, COO, Head of Production
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 1
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => https://www.linkedin.com/in/alex-isaev-4a751195/
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 505
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1578046748.5551
+                    [finish] => 1578046748.5907
+                    [duration] => 0.035650968551636
+                    [processing] => 0.0033068656921387
+                    [date_start] => 2020-01-03T13:19:08+03:00
+                    [date_finish] => 2020-01-03T13:19:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 6
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 29230f5e00389e5e00091bec00000001f0f103f0658c9d28fb85a76908833eba082612
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 6
+                    [TITLE] => Tigrelab
+                    [TYPE_ID] => 
+                    [STAGE_ID] => DETAILS
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5000.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 222
+                    [COMPANY_ID] => 18
+                    [CONTACT_ID] => 18
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2017-05-18T03:00:00+03:00
+                    [CLOSEDATE] => 
+                    [ASSIGNED_BY_ID] => 6
+                    [CREATED_BY_ID] => 6
+                    [MODIFY_BY_ID] => 10
+                    [DATE_CREATE] => 2017-05-18T16:36:37+03:00
+                    [DATE_MODIFY] => 2019-04-18T17:53:58+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                            [2] => 182
+                            [3] => 184
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => Array
+                        (
+                            [0] => 204
+                            [1] => 206
+                        )
+
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => 
+                    [UF_CRM_1554790931287] => 
+                    [UF_CRM_1554791477851] => 
+                    [UF_CRM_1554889136] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1578046749.4956
+                    [finish] => 1578046749.5393
+                    [duration] => 0.043703079223633
+                    [processing] => 0.018532991409302
+                    [date_start] => 2020-01-03T13:19:09+03:00
+                    [date_finish] => 2020-01-03T13:19:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 29230f5e00389e5e00091bec00000001f0f103f0658c9d28fb85a76908833eba082612
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1578046749.7441
+                    [finish] => 1578046749.7705
+                    [duration] => 0.026386022567749
+                    [processing] => 0.0027987957000732
+                    [date_start] => 2020-01-03T13:19:09+03:00
+                    [date_finish] => 2020-01-03T13:19:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+

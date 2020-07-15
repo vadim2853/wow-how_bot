@@ -1,0 +1,237 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => view
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 367
+            [VALUE] => 2243
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 569
+                    [ACTIVE] => 1
+                    [EMAIL] => nataliya.baldina@wow-how.com
+                    [NAME] => Nataliya
+                    [LAST_NAME] => Baldina
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1998-10-11T03:00:00+04:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/905/905ea3d883b8411ad5cc8aca99ad6429/367f9e1c-f036-414b-af3f-28809ba892df.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => 380956373054
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Sales Manager
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1575982773.5567
+                    [finish] => 1575982773.5881
+                    [duration] => 0.031450033187866
+                    [processing] => 0.0036580562591553
+                    [date_start] => 2019-12-10T15:59:33+03:00
+                    [date_finish] => 2019-12-10T15:59:33+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 367
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => c4a4ef5d00389e5e00091bec00000239f0f10307dffc840404813e08953e8ec8dfe22d
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 367
+                    [TITLE] => 	 2D Character Design for Yotta Games
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => UAH
+                    [OPPORTUNITY] => 0.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2555
+                    [CONTACT_ID] => 6067
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-04T03:00:00+03:00
+                    [CLOSEDATE] => 2019-06-04T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 567
+                    [CREATED_BY_ID] => 567
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-06-04T13:31:23+03:00
+                    [DATE_MODIFY] => 2019-06-04T13:33:08+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                            [1] => 186
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 2243
+                    [UF_CRM_1554297194] => Array
+                        (
+                            [0] => -
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 661
+                    [UF_CRM_1554889136] => 33
+                )
+
+            [time] => Array
+                (
+                    [start] => 1575982773.8423
+                    [finish] => 1575982773.8784
+                    [duration] => 0.036066055297852
+                    [processing] => 0.013544082641602
+                    [date_start] => 2019-12-10T15:59:33+03:00
+                    [date_finish] => 2019-12-10T15:59:33+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2243
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => c4a4ef5d00389e5e00091bec00000239f0f10307dffc840404813e08953e8ec8dfe22d
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2243
+                            [SITE_ID] => s1
+                            [NAME] => 2D Character Design for Yotta Games 
+                            [DESCRIPTION] => Дедлайн : 27.05.19 Ссылка на ДС:
+Y:\_WOW-HOW Studio\_GAME_ART_PRJ\2D Character Design for Yotta Games
+                            [DATE_CREATE] => 2019-05-04T13:02:17+03:00
+                            [DATE_UPDATE] => 2019-05-22T10:14:33+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => Y
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 583
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-22T10:14:33+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/3fb/3fb296ef4e98392dc33bf46f33aa6f42/yotta+pic.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1575982774.0768
+                    [finish] => 1575982774.1149
+                    [duration] => 0.038107872009277
+                    [processing] => 0.0084249973297119
+                    [date_start] => 2019-12-10T15:59:34+03:00
+                    [date_finish] => 2019-12-10T15:59:34+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+

@@ -1,0 +1,245 @@
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 101
+    [VALUE] => 2149
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 101
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 101
+                    [TITLE] => test deal
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => DETAILS
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 3000.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-04T03:00:00+03:00
+                    [CLOSEDATE] => 2019-04-11T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 573
+                    [CREATED_BY_ID] => 573
+                    [MODIFY_BY_ID] => 573
+                    [DATE_CREATE] => 2019-04-04T17:25:10+03:00
+                    [DATE_MODIFY] => 2019-04-04T17:42:27+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7F93728] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7FB4A3A] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7FCA1AB] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 100
+                    [UF_CRM_PROJECT] => 2149
+                    [UF_CRM_1554297194] => Array
+                        (
+                            [0] => 500 - sth
+                            [1] => 600 - sth else
+                        )
+
+                    [UF_CRM_1554790931287] => 
+                    [UF_CRM_1554791477851] => 
+                    [UF_CRM_1554889136] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1555421586.2874
+                    [finish] => 1555421586.3278
+                    [duration] => 0.040302038192749
+                    [processing] => 0.012528896331787
+                    [date_start] => 2019-04-16T16:33:06+03:00
+                    [date_finish] => 2019-04-16T16:33:06+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2149
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2149
+                            [SITE_ID] => s1
+                            [NAME] => test project 2
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-04-04T17:27:52+03:00
+                            [DATE_UPDATE] => 2019-04-04T17:27:52+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 573
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 1
+                            [DATE_ACTIVITY] => 2019-04-04T17:29:54+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1555421586.4737
+                    [finish] => 1555421586.5025
+                    [duration] => 0.028851985931396
+                    [processing] => 0.0046889781951904
+                    [date_start] => 2019-04-16T16:33:06+03:00
+                    [date_finish] => 2019-04-16T16:33:06+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+

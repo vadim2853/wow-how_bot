@@ -1,0 +1,3820 @@
+Array
+(
+    [from] => 2019-03-21
+    [to] => 2019-04-04
+    [projects] => Array
+        (
+            [0] => 2123
+            [1] => 2149
+        )
+
+    [domain] => wow-how.bitrix24.ua
+    [auth_id] => c335a65c00389e5e00091bec0000023d000003f31c8709520414071facb659f0c1b718
+    [lang] => ua
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2123
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2123
+                            [SITE_ID] => s1
+                            [NAME] => test project
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-03-27T16:11:00+03:00
+                            [DATE_UPDATE] => 2019-03-27T16:11:00+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 573
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 1
+                            [DATE_ACTIVITY] => 2019-03-27T16:14:42+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => Y
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393038.3255
+                    [finish] => 1554393038.3516
+                    [duration] => 0.026098012924194
+                    [processing] => 0.0035569667816162
+                    [date_start] => 2019-04-04T18:50:38+03:00
+                    [date_finish] => 2019-04-04T18:50:38+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-03-21 00:00:00
+                    [<=DATE_CREATE] => 2019-04-04 23:59:59
+                    [UF_CRM_PROJECT] => 2123
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 100
+                            [DATE_CREATE] => 2019-03-21T19:02:34+03:00
+                            [TITLE] => Test primelab
+                            [CONTACT_ID] => 5887
+                            [COMPANY_ID] => 0
+                            [LEAD_ID] => 
+                            [STAGE_ID] => NEW
+                            [CREATED_BY_ID] => 571
+                            [ASSIGNED_BY_ID] => 571
+                            [OPPORTUNITY] => 10000.00
+                            [UF_CRM_1549021620] => 50
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 400 - music
+                                    [1] => 500 - sth
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393038.5033
+                    [finish] => 1554393038.5314
+                    [duration] => 0.028042793273926
+                    [processing] => 0.01069712638855
+                    [date_start] => 2019-04-04T18:50:38+03:00
+                    [date_finish] => 2019-04-04T18:50:38+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.contact.get
+    [PARAMS] => Array
+        (
+            [id] => 5887
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 5887
+                    [POST] => 
+                    [COMMENTS] => Re: Xpedition Media Script kick off
+                    [HONORIFIC] => 
+                    [NAME] => Derek Helwig
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => 
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => EMAIL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => N
+                    [HAS_PHONE] => N
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2019-02-25T18:25:53+03:00
+                    [DATE_MODIFY] => 2019-03-11T22:02:58+03:00
+                    [ASSIGNED_BY_ID] => 525
+                    [CREATED_BY_ID] => 525
+                    [MODIFY_BY_ID] => 525
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => email-tracker
+                    [ORIGIN_ID] => 27
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_COUNTRY_CODE] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 35693
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => derek@xpeditionmedia.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1554393039.6747
+                    [finish] => 1554393039.7205
+                    [duration] => 0.045819044113159
+                    [processing] => 0.0190749168396
+                    [date_start] => 2019-04-04T18:50:39+03:00
+                    [date_finish] => 2019-04-04T18:50:39+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => DEAL_STAGE
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 121
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => ON_HOLD
+                            [NAME] => Обробка припинена
+                            [NAME_INIT] => 
+                            [SORT] => 60
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => apology
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 113
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => DETAILS
+                            [NAME] => обсуждение
+                            [NAME_INIT] => 
+                            [SORT] => 10
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 111
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEW
+                            [NAME] => Оценка
+                            [NAME_INIT] => В опрацюванні
+                            [SORT] => 20
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 117
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEGOTIATION
+                            [NAME] => Переговоры
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 123
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => LOSE
+                            [NAME] => Угода не укладена
+                            [NAME_INIT] => Угода не укладена
+                            [SORT] => 50
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => failure
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 119
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => WON
+                            [NAME] => Угода укладена
+                            [NAME_INIT] => Угода укладена
+                            [SORT] => 40
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => success
+                                    [COLOR] => #DBF199
+                                )
+
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393039.8669
+                    [finish] => 1554393039.8909
+                    [duration] => 0.024029016494751
+                    [processing] => 0.0029599666595459
+                    [date_start] => 2019-04-04T18:50:39+03:00
+                    [date_finish] => 2019-04-04T18:50:39+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 571
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 571
+                            [ACTIVE] => 1
+                            [EMAIL] => bp@wow-how.com
+                            [NAME] => Prime
+                            [LAST_NAME] => Lab
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393041.0818
+                    [finish] => 1554393041.1139
+                    [duration] => 0.032116174697876
+                    [processing] => 0.013631105422974
+                    [date_start] => 2019-04-04T18:50:41+03:00
+                    [date_finish] => 2019-04-04T18:50:41+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 571
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 571
+                            [ACTIVE] => 1
+                            [EMAIL] => bp@wow-how.com
+                            [NAME] => Prime
+                            [LAST_NAME] => Lab
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393041.3139
+                    [finish] => 1554393041.346
+                    [duration] => 0.032142162322998
+                    [processing] => 0.012986183166504
+                    [date_start] => 2019-04-04T18:50:41+03:00
+                    [date_finish] => 2019-04-04T18:50:41+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => INVOICE_STATUS
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 183
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => S
+                            [NAME] => Відправлено клієнту
+                            [NAME_INIT] => 
+                            [SORT] => 20
+                            [SYSTEM] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 177
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => D
+                            [NAME] => Відхилено
+                            [NAME_INIT] => Відхилено
+                            [SORT] => 70
+                            [SYSTEM] => Y
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 181
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => P
+                            [NAME] => Оплачено
+                            [NAME_INIT] => Оплачено
+                            [SORT] => 60
+                            [SYSTEM] => Y
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 185
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => U
+                            [NAME] => Оплачено частично
+                            [NAME_INIT] => 
+                            [SORT] => 40
+                            [SYSTEM] => N
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 175
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => A
+                            [NAME] => Підтверджено
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 179
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => N
+                            [NAME] => Чернетка
+                            [NAME_INIT] => Чернетка
+                            [SORT] => 10
+                            [SYSTEM] => Y
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393042.4948
+                    [finish] => 1554393042.5201
+                    [duration] => 0.02523398399353
+                    [processing] => 0.0024099349975586
+                    [date_start] => 2019-04-04T18:50:42+03:00
+                    [date_finish] => 2019-04-04T18:50:42+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.invoice.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [DATE_INSERT] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [UF_DEAL_ID] => 100
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_INSERT
+                    [2] => STATUS_ID
+                    [3] => PRICE
+                    [4] => CURRENCY
+                )
+
+            [start] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-03-21T18:02:45+03:00
+                            [ID] => 66
+                            [PRICE] => 5000
+                            [STATUS_ID] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-03-28T11:15:09+03:00
+                            [ID] => 67
+                            [PRICE] => 2000
+                            [STATUS_ID] => P
+                        )
+
+                    [2] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-04-02T15:00:57+03:00
+                            [ID] => 69
+                            [PRICE] => 10000
+                            [STATUS_ID] => N
+                        )
+
+                )
+
+            [total] => 3
+            [time] => Array
+                (
+                    [start] => 1554393043.6671
+                    [finish] => 1554393043.7179
+                    [duration] => 0.050780057907104
+                    [processing] => 0.026103973388672
+                    [date_start] => 2019-04-04T18:50:43+03:00
+                    [date_finish] => 2019-04-04T18:50:43+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.item.list
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [DATE_START] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [GROUP_ID] => 2123
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [TITLE] => test task
+                            [STAGE_ID] => 0
+                            [DESCRIPTION] => 
+                            [DEADLINE] => 
+                            [START_DATE_PLAN] => 2019-03-27T10:00:00+03:00
+                            [END_DATE_PLAN] => 2019-03-27T20:00:00+03:00
+                            [PRIORITY] => 1
+                            [ALLOW_CHANGE_DEADLINE] => Y
+                            [ALLOW_CHANGE_DEADLINE_COUNT] => 
+                            [ALLOW_CHANGE_DEADLINE_COUNT_VALUE] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME_VALUE] => 
+                            [TASK_CONTROL] => N
+                            [PARENT_ID] => 
+                            [GROUP_ID] => 2123
+                            [RESPONSIBLE_ID] => 573
+                            [TIME_ESTIMATE] => 36000
+                            [ID] => 27069
+                            [CREATED_BY] => 573
+                            [DESCRIPTION_IN_BBCODE] => Y
+                            [DECLINE_REASON] => 
+                            [REAL_STATUS] => 3
+                            [STATUS] => 3
+                            [RESPONSIBLE_NAME] => Project
+                            [RESPONSIBLE_LAST_NAME] => Bot
+                            [RESPONSIBLE_SECOND_NAME] => 
+                            [DATE_START] => 2019-03-27T16:15:30+03:00
+                            [DURATION_FACT] => 1431
+                            [DURATION_PLAN] => 10
+                            [DURATION_TYPE] => hours
+                            [CREATED_BY_NAME] => Project
+                            [CREATED_BY_LAST_NAME] => Bot
+                            [CREATED_BY_SECOND_NAME] => 
+                            [CREATED_DATE] => 2019-03-27T16:14:42+03:00
+                            [CHANGED_BY] => 573
+                            [CHANGED_DATE] => 2019-03-27T16:17:25+03:00
+                            [STATUS_CHANGED_BY] => 573
+                            [STATUS_CHANGED_DATE] => 2019-03-27T16:15:47+03:00
+                            [CLOSED_BY] => 
+                            [CLOSED_DATE] => 
+                            [GUID] => {ed8fcaa0-aadf-4d7d-b834-05f6bbe76ce4}
+                            [MARK] => 
+                            [VIEWED_DATE] => 2019-03-28T15:13:23+03:00
+                            [TIME_SPENT_IN_LOGS] => 85886
+                            [FAVORITE] => N
+                            [ALLOW_TIME_TRACKING] => Y
+                            [MATCH_WORK_TIME] => N
+                            [ADD_IN_REPORT] => N
+                            [FORUM_ID] => 
+                            [FORUM_TOPIC_ID] => 
+                            [COMMENTS_COUNT] => 
+                            [SITE_ID] => s1
+                            [SUBORDINATE] => N
+                            [FORKED_BY_TEMPLATE_ID] => 
+                            [MULTITASK] => N
+                            [ALLOWED_ACTIONS] => Array
+                                (
+                                    [ACTION_ACCEPT] => 
+                                    [ACTION_DECLINE] => 
+                                    [ACTION_COMPLETE] => 1
+                                    [ACTION_APPROVE] => 
+                                    [ACTION_DISAPPROVE] => 
+                                    [ACTION_START] => 
+                                    [ACTION_PAUSE] => 1
+                                    [ACTION_DELEGATE] => 1
+                                    [ACTION_REMOVE] => 1
+                                    [ACTION_EDIT] => 1
+                                    [ACTION_DEFER] => 1
+                                    [ACTION_RENEW] => 
+                                    [ACTION_CREATE] => 
+                                    [ACTION_CHANGE_DEADLINE] => 1
+                                    [ACTION_CHECKLIST_ADD_ITEMS] => 1
+                                    [ACTION_CHECKLIST_REORDER_ITEMS] => 1
+                                    [ACTION_CHANGE_DIRECTOR] => 1
+                                    [ACTION_ELAPSED_TIME_ADD] => 1
+                                    [ACTION_START_TIME_TRACKING] => 1
+                                    [ACTION_ADD_FAVORITE] => 1
+                                    [ACTION_DELETE_FAVORITE] => 
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [TITLE] => Test task
+                            [STAGE_ID] => 0
+                            [DESCRIPTION] => 
+                            [DEADLINE] => 
+                            [START_DATE_PLAN] => 
+                            [END_DATE_PLAN] => 
+                            [PRIORITY] => 1
+                            [ALLOW_CHANGE_DEADLINE] => Y
+                            [ALLOW_CHANGE_DEADLINE_COUNT] => 
+                            [ALLOW_CHANGE_DEADLINE_COUNT_VALUE] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME_VALUE] => 
+                            [TASK_CONTROL] => N
+                            [PARENT_ID] => 
+                            [GROUP_ID] => 2123
+                            [RESPONSIBLE_ID] => 571
+                            [TIME_ESTIMATE] => 10800
+                            [ID] => 27133
+                            [CREATED_BY] => 571
+                            [DESCRIPTION_IN_BBCODE] => Y
+                            [DECLINE_REASON] => 
+                            [REAL_STATUS] => 2
+                            [STATUS] => 2
+                            [RESPONSIBLE_NAME] => Prime
+                            [RESPONSIBLE_LAST_NAME] => Lab
+                            [RESPONSIBLE_SECOND_NAME] => 
+                            [DATE_START] => 
+                            [DURATION_FACT] => 60
+                            [DURATION_PLAN] => 
+                            [DURATION_TYPE] => days
+                            [CREATED_BY_NAME] => Prime
+                            [CREATED_BY_LAST_NAME] => Lab
+                            [CREATED_BY_SECOND_NAME] => 
+                            [CREATED_DATE] => 2019-03-28T15:02:43+03:00
+                            [CHANGED_BY] => 573
+                            [CHANGED_DATE] => 2019-03-28T15:12:45+03:00
+                            [STATUS_CHANGED_BY] => 573
+                            [STATUS_CHANGED_DATE] => 2019-03-28T15:02:43+03:00
+                            [CLOSED_BY] => 
+                            [CLOSED_DATE] => 
+                            [GUID] => {f5230b47-5464-4673-a29c-3e39f862149f}
+                            [MARK] => 
+                            [VIEWED_DATE] => 2019-03-28T15:12:35+03:00
+                            [TIME_SPENT_IN_LOGS] => 3600
+                            [FAVORITE] => N
+                            [ALLOW_TIME_TRACKING] => Y
+                            [MATCH_WORK_TIME] => N
+                            [ADD_IN_REPORT] => N
+                            [FORUM_ID] => 
+                            [FORUM_TOPIC_ID] => 
+                            [COMMENTS_COUNT] => 
+                            [SITE_ID] => s1
+                            [SUBORDINATE] => N
+                            [FORKED_BY_TEMPLATE_ID] => 
+                            [MULTITASK] => N
+                            [ALLOWED_ACTIONS] => Array
+                                (
+                                    [ACTION_ACCEPT] => 
+                                    [ACTION_DECLINE] => 
+                                    [ACTION_COMPLETE] => 1
+                                    [ACTION_APPROVE] => 
+                                    [ACTION_DISAPPROVE] => 
+                                    [ACTION_START] => 
+                                    [ACTION_PAUSE] => 
+                                    [ACTION_DELEGATE] => 
+                                    [ACTION_REMOVE] => 1
+                                    [ACTION_EDIT] => 1
+                                    [ACTION_DEFER] => 
+                                    [ACTION_RENEW] => 
+                                    [ACTION_CREATE] => 
+                                    [ACTION_CHANGE_DEADLINE] => 1
+                                    [ACTION_CHECKLIST_ADD_ITEMS] => 1
+                                    [ACTION_CHECKLIST_REORDER_ITEMS] => 1
+                                    [ACTION_CHANGE_DIRECTOR] => 1
+                                    [ACTION_ELAPSED_TIME_ADD] => 1
+                                    [ACTION_START_TIME_TRACKING] => 
+                                    [ACTION_ADD_FAVORITE] => 1
+                                    [ACTION_DELETE_FAVORITE] => 
+                                )
+
+                        )
+
+                )
+
+            [total] => 2
+            [time] => Array
+                (
+                    [start] => 1554393044.852
+                    [finish] => 1554393044.8737
+                    [duration] => 0.021672010421753
+                    [processing] => 0.0038421154022217
+                    [date_start] => 2019-04-04T18:50:44+03:00
+                    [date_finish] => 2019-04-04T18:50:44+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.elapseditem.getlist
+    [PARAMS] => Array
+        (
+            [TASKID] => 27069
+            [ORDER] => Array
+                (
+                    [CREATED_DATE] => asc
+                )
+
+            [FILTER] => Array
+                (
+                    [>=CREATED_DATE] => 2019-03-21 00:00:00
+                    [<=CREATED_DATE] => 2019-04-04 23:59:59
+                )
+
+            [SELECT] => Array
+                (
+                    [0] => *
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 221899
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 7314
+                            [MINUTES] => 122
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-03-27T16:17:34+03:00
+                            [DATE_START] => 2019-03-27T16:17:34+03:00
+                            [DATE_STOP] => 2019-03-27T18:19:28+03:00
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 221813
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 3600
+                            [MINUTES] => 60
+                            [SOURCE] => 2
+                            [CREATED_DATE] => 2019-03-27T16:24:49+03:00
+                            [DATE_START] => 2019-03-27T17:24:49+03:00
+                            [DATE_STOP] => 2019-03-27T17:24:49+03:00
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 221967
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 5358
+                            [MINUTES] => 89
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-03-27T18:23:48+03:00
+                            [DATE_START] => 2019-03-27T18:23:48+03:00
+                            [DATE_STOP] => 2019-03-27T19:53:06+03:00
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 222193
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 69614
+                            [MINUTES] => 1160
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-03-27T19:53:12+03:00
+                            [DATE_START] => 2019-03-27T19:53:12+03:00
+                            [DATE_STOP] => 2019-03-28T15:13:26+03:00
+                        )
+
+                )
+
+            [total] => 4
+            [time] => Array
+                (
+                    [start] => 1554393046.0157
+                    [finish] => 1554393046.0561
+                    [duration] => 0.040432929992676
+                    [processing] => 0.018141984939575
+                    [date_start] => 2019-04-04T18:50:46+03:00
+                    [date_finish] => 2019-04-04T18:50:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.elapseditem.getlist
+    [PARAMS] => Array
+        (
+            [TASKID] => 27133
+            [ORDER] => Array
+                (
+                    [CREATED_DATE] => asc
+                )
+
+            [FILTER] => Array
+                (
+                    [>=CREATED_DATE] => 2019-03-21 00:00:00
+                    [<=CREATED_DATE] => 2019-04-04 23:59:59
+                )
+
+            [SELECT] => Array
+                (
+                    [0] => *
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 222189
+                            [TASK_ID] => 27133
+                            [USER_ID] => 571
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 3600
+                            [MINUTES] => 60
+                            [SOURCE] => 2
+                            [CREATED_DATE] => 2019-03-28T15:03:01+03:00
+                            [DATE_START] => 2019-03-28T16:03:01+03:00
+                            [DATE_STOP] => 2019-03-28T16:03:01+03:00
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393046.2022
+                    [finish] => 1554393046.2376
+                    [duration] => 0.035413980484009
+                    [processing] => 0.0154128074646
+                    [date_start] => 2019-04-04T18:50:46+03:00
+                    [date_finish] => 2019-04-04T18:50:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2149
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2149
+                            [SITE_ID] => s1
+                            [NAME] => test project 2
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-04-04T17:27:52+03:00
+                            [DATE_UPDATE] => 2019-04-04T17:27:52+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 573
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 1
+                            [DATE_ACTIVITY] => 2019-04-04T17:29:54+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393046.3884
+                    [finish] => 1554393046.4107
+                    [duration] => 0.022265911102295
+                    [processing] => 0.003654956817627
+                    [date_start] => 2019-04-04T18:50:46+03:00
+                    [date_finish] => 2019-04-04T18:50:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-03-21 00:00:00
+                    [<=DATE_CREATE] => 2019-04-04 23:59:59
+                    [UF_CRM_PROJECT] => 2149
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 101
+                            [DATE_CREATE] => 2019-04-04T17:25:10+03:00
+                            [TITLE] => test deal
+                            [CONTACT_ID] => 
+                            [COMPANY_ID] => 0
+                            [LEAD_ID] => 
+                            [STAGE_ID] => DETAILS
+                            [CREATED_BY_ID] => 573
+                            [ASSIGNED_BY_ID] => 573
+                            [OPPORTUNITY] => 3000.00
+                            [UF_CRM_1549021620] => 100
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 500 - sth
+                                    [1] => 600 - sth else
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393046.5486
+                    [finish] => 1554393046.5848
+                    [duration] => 0.036221981048584
+                    [processing] => 0.014169931411743
+                    [date_start] => 2019-04-04T18:50:46+03:00
+                    [date_finish] => 2019-04-04T18:50:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => DEAL_STAGE
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 121
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => ON_HOLD
+                            [NAME] => Обробка припинена
+                            [NAME_INIT] => 
+                            [SORT] => 60
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => apology
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 113
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => DETAILS
+                            [NAME] => обсуждение
+                            [NAME_INIT] => 
+                            [SORT] => 10
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 111
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEW
+                            [NAME] => Оценка
+                            [NAME_INIT] => В опрацюванні
+                            [SORT] => 20
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 117
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEGOTIATION
+                            [NAME] => Переговоры
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 123
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => LOSE
+                            [NAME] => Угода не укладена
+                            [NAME_INIT] => Угода не укладена
+                            [SORT] => 50
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => failure
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 119
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => WON
+                            [NAME] => Угода укладена
+                            [NAME_INIT] => Угода укладена
+                            [SORT] => 40
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => success
+                                    [COLOR] => #DBF199
+                                )
+
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393047.7929
+                    [finish] => 1554393047.8227
+                    [duration] => 0.029783964157104
+                    [processing] => 0.0030410289764404
+                    [date_start] => 2019-04-04T18:50:47+03:00
+                    [date_finish] => 2019-04-04T18:50:47+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 573
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 573
+                            [ACTIVE] => 1
+                            [EMAIL] => bpp@wow-how.com
+                            [NAME] => Project
+                            [LAST_NAME] => Bot
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393049.9113
+                    [finish] => 1554393049.9595
+                    [duration] => 0.048140048980713
+                    [processing] => 0.01786994934082
+                    [date_start] => 2019-04-04T18:50:49+03:00
+                    [date_finish] => 2019-04-04T18:50:49+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 573
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 573
+                            [ACTIVE] => 1
+                            [EMAIL] => bpp@wow-how.com
+                            [NAME] => Project
+                            [LAST_NAME] => Bot
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393050.1173
+                    [finish] => 1554393050.1513
+                    [duration] => 0.033924102783203
+                    [processing] => 0.011275053024292
+                    [date_start] => 2019-04-04T18:50:50+03:00
+                    [date_finish] => 2019-04-04T18:50:50+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => INVOICE_STATUS
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 183
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => S
+                            [NAME] => Відправлено клієнту
+                            [NAME_INIT] => 
+                            [SORT] => 20
+                            [SYSTEM] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 177
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => D
+                            [NAME] => Відхилено
+                            [NAME_INIT] => Відхилено
+                            [SORT] => 70
+                            [SYSTEM] => Y
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 181
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => P
+                            [NAME] => Оплачено
+                            [NAME_INIT] => Оплачено
+                            [SORT] => 60
+                            [SYSTEM] => Y
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 185
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => U
+                            [NAME] => Оплачено частично
+                            [NAME_INIT] => 
+                            [SORT] => 40
+                            [SYSTEM] => N
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 175
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => A
+                            [NAME] => Підтверджено
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 179
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => N
+                            [NAME] => Чернетка
+                            [NAME_INIT] => Чернетка
+                            [SORT] => 10
+                            [SYSTEM] => Y
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393051.2968
+                    [finish] => 1554393051.3211
+                    [duration] => 0.024325847625732
+                    [processing] => 0.0021591186523438
+                    [date_start] => 2019-04-04T18:50:51+03:00
+                    [date_finish] => 2019-04-04T18:50:51+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.invoice.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [DATE_INSERT] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [UF_DEAL_ID] => 101
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_INSERT
+                    [2] => STATUS_ID
+                    [3] => PRICE
+                    [4] => CURRENCY
+                )
+
+            [start] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554393052.458
+                    [finish] => 1554393052.4998
+                    [duration] => 0.041815042495728
+                    [processing] => 0.024019956588745
+                    [date_start] => 2019-04-04T18:50:52+03:00
+                    [date_finish] => 2019-04-04T18:50:52+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.item.list
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [DATE_START] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [GROUP_ID] => 2149
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [TITLE] => test task 2
+                            [STAGE_ID] => 0
+                            [DESCRIPTION] => 
+                            [DEADLINE] => 
+                            [START_DATE_PLAN] => 2019-04-05T09:00:00+03:00
+                            [END_DATE_PLAN] => 2019-04-07T11:00:00+03:00
+                            [PRIORITY] => 1
+                            [ALLOW_CHANGE_DEADLINE] => Y
+                            [ALLOW_CHANGE_DEADLINE_COUNT] => 
+                            [ALLOW_CHANGE_DEADLINE_COUNT_VALUE] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME_VALUE] => 
+                            [TASK_CONTROL] => N
+                            [PARENT_ID] => 
+                            [GROUP_ID] => 2149
+                            [RESPONSIBLE_ID] => 573
+                            [TIME_ESTIMATE] => 180000
+                            [ID] => 27591
+                            [CREATED_BY] => 573
+                            [DESCRIPTION_IN_BBCODE] => Y
+                            [DECLINE_REASON] => 
+                            [REAL_STATUS] => 3
+                            [STATUS] => 3
+                            [RESPONSIBLE_NAME] => Project
+                            [RESPONSIBLE_LAST_NAME] => Bot
+                            [RESPONSIBLE_SECOND_NAME] => 
+                            [DATE_START] => 2019-04-04T17:30:06+03:00
+                            [DURATION_FACT] => 0
+                            [DURATION_PLAN] => 50
+                            [DURATION_TYPE] => hours
+                            [CREATED_BY_NAME] => Project
+                            [CREATED_BY_LAST_NAME] => Bot
+                            [CREATED_BY_SECOND_NAME] => 
+                            [CREATED_DATE] => 2019-04-04T17:29:54+03:00
+                            [CHANGED_BY] => 573
+                            [CHANGED_DATE] => 2019-04-04T17:30:06+03:00
+                            [STATUS_CHANGED_BY] => 573
+                            [STATUS_CHANGED_DATE] => 2019-04-04T17:30:06+03:00
+                            [CLOSED_BY] => 
+                            [CLOSED_DATE] => 
+                            [GUID] => {1e5875f2-8e7d-4d5b-adf6-93cddc3361a9}
+                            [MARK] => 
+                            [VIEWED_DATE] => 2019-04-04T17:30:03+03:00
+                            [TIME_SPENT_IN_LOGS] => 15
+                            [FAVORITE] => N
+                            [ALLOW_TIME_TRACKING] => Y
+                            [MATCH_WORK_TIME] => N
+                            [ADD_IN_REPORT] => N
+                            [FORUM_ID] => 
+                            [FORUM_TOPIC_ID] => 
+                            [COMMENTS_COUNT] => 
+                            [SITE_ID] => s1
+                            [SUBORDINATE] => N
+                            [FORKED_BY_TEMPLATE_ID] => 
+                            [MULTITASK] => N
+                            [ALLOWED_ACTIONS] => Array
+                                (
+                                    [ACTION_ACCEPT] => 
+                                    [ACTION_DECLINE] => 
+                                    [ACTION_COMPLETE] => 1
+                                    [ACTION_APPROVE] => 
+                                    [ACTION_DISAPPROVE] => 
+                                    [ACTION_START] => 
+                                    [ACTION_PAUSE] => 1
+                                    [ACTION_DELEGATE] => 1
+                                    [ACTION_REMOVE] => 1
+                                    [ACTION_EDIT] => 1
+                                    [ACTION_DEFER] => 1
+                                    [ACTION_RENEW] => 
+                                    [ACTION_CREATE] => 
+                                    [ACTION_CHANGE_DEADLINE] => 1
+                                    [ACTION_CHECKLIST_ADD_ITEMS] => 1
+                                    [ACTION_CHECKLIST_REORDER_ITEMS] => 1
+                                    [ACTION_CHANGE_DIRECTOR] => 1
+                                    [ACTION_ELAPSED_TIME_ADD] => 1
+                                    [ACTION_START_TIME_TRACKING] => 1
+                                    [ACTION_ADD_FAVORITE] => 1
+                                    [ACTION_DELETE_FAVORITE] => 
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393052.6391
+                    [finish] => 1554393052.6613
+                    [duration] => 0.022262096405029
+                    [processing] => 0.00394606590271
+                    [date_start] => 2019-04-04T18:50:52+03:00
+                    [date_finish] => 2019-04-04T18:50:52+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.elapseditem.getlist
+    [PARAMS] => Array
+        (
+            [TASKID] => 27591
+            [ORDER] => Array
+                (
+                    [CREATED_DATE] => asc
+                )
+
+            [FILTER] => Array
+                (
+                    [>=CREATED_DATE] => 2019-03-21 00:00:00
+                    [<=CREATED_DATE] => 2019-04-04 23:59:59
+                )
+
+            [SELECT] => Array
+                (
+                    [0] => *
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 224463
+                            [TASK_ID] => 27591
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 15
+                            [MINUTES] => 0
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-04-04T17:30:06+03:00
+                            [DATE_START] => 2019-04-04T17:30:06+03:00
+                            [DATE_STOP] => 2019-04-04T17:30:21+03:00
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393053.7975
+                    [finish] => 1554393053.8313
+                    [duration] => 0.033795833587646
+                    [processing] => 0.017579078674316
+                    [date_start] => 2019-04-04T18:50:53+03:00
+                    [date_finish] => 2019-04-04T18:50:53+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [from] => 2019-03-21
+    [to] => 2019-04-04
+    [projects] => Array
+        (
+            [0] => 2123
+            [1] => 2149
+        )
+
+    [domain] => wow-how.bitrix24.ua
+    [auth_id] => ba36a65c00389e5e00091bec0000023d0000039f241397ea1ed1f49bcbf3e9a528ecf7
+    [lang] => ua
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2123
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2123
+                            [SITE_ID] => s1
+                            [NAME] => test project
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-03-27T16:11:00+03:00
+                            [DATE_UPDATE] => 2019-03-27T16:11:00+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 573
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 1
+                            [DATE_ACTIVITY] => 2019-03-27T16:14:42+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => Y
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393276.91
+                    [finish] => 1554393276.9309
+                    [duration] => 0.020900964736938
+                    [processing] => 0.0035948753356934
+                    [date_start] => 2019-04-04T18:54:36+03:00
+                    [date_finish] => 2019-04-04T18:54:36+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-03-21 00:00:00
+                    [<=DATE_CREATE] => 2019-04-04 23:59:59
+                    [UF_CRM_PROJECT] => 2123
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 100
+                            [DATE_CREATE] => 2019-03-21T19:02:34+03:00
+                            [TITLE] => Test primelab
+                            [CONTACT_ID] => 5887
+                            [COMPANY_ID] => 0
+                            [LEAD_ID] => 
+                            [STAGE_ID] => NEW
+                            [CREATED_BY_ID] => 571
+                            [ASSIGNED_BY_ID] => 571
+                            [OPPORTUNITY] => 10000.00
+                            [UF_CRM_1549021620] => 50
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 400 - music
+                                    [1] => 500 - sth
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393277.1045
+                    [finish] => 1554393277.1366
+                    [duration] => 0.032081127166748
+                    [processing] => 0.012840986251831
+                    [date_start] => 2019-04-04T18:54:37+03:00
+                    [date_finish] => 2019-04-04T18:54:37+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.contact.get
+    [PARAMS] => Array
+        (
+            [id] => 5887
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 5887
+                    [POST] => 
+                    [COMMENTS] => Re: Xpedition Media Script kick off
+                    [HONORIFIC] => 
+                    [NAME] => Derek Helwig
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => 
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => EMAIL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => N
+                    [HAS_PHONE] => N
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2019-02-25T18:25:53+03:00
+                    [DATE_MODIFY] => 2019-03-11T22:02:58+03:00
+                    [ASSIGNED_BY_ID] => 525
+                    [CREATED_BY_ID] => 525
+                    [MODIFY_BY_ID] => 525
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => email-tracker
+                    [ORIGIN_ID] => 27
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_COUNTRY_CODE] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 35693
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => derek@xpeditionmedia.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1554393278.2912
+                    [finish] => 1554393278.3225
+                    [duration] => 0.031318187713623
+                    [processing] => 0.0096449851989746
+                    [date_start] => 2019-04-04T18:54:38+03:00
+                    [date_finish] => 2019-04-04T18:54:38+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => DEAL_STAGE
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 121
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => ON_HOLD
+                            [NAME] => Обробка припинена
+                            [NAME_INIT] => 
+                            [SORT] => 60
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => apology
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 113
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => DETAILS
+                            [NAME] => обсуждение
+                            [NAME_INIT] => 
+                            [SORT] => 10
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 111
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEW
+                            [NAME] => Оценка
+                            [NAME_INIT] => В опрацюванні
+                            [SORT] => 20
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 117
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEGOTIATION
+                            [NAME] => Переговоры
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 123
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => LOSE
+                            [NAME] => Угода не укладена
+                            [NAME_INIT] => Угода не укладена
+                            [SORT] => 50
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => failure
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 119
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => WON
+                            [NAME] => Угода укладена
+                            [NAME_INIT] => Угода укладена
+                            [SORT] => 40
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => success
+                                    [COLOR] => #DBF199
+                                )
+
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393278.4621
+                    [finish] => 1554393278.4871
+                    [duration] => 0.024976015090942
+                    [processing] => 0.0028359889984131
+                    [date_start] => 2019-04-04T18:54:38+03:00
+                    [date_finish] => 2019-04-04T18:54:38+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 571
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 571
+                            [ACTIVE] => 1
+                            [EMAIL] => bp@wow-how.com
+                            [NAME] => Prime
+                            [LAST_NAME] => Lab
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393279.6316
+                    [finish] => 1554393279.6688
+                    [duration] => 0.037183046340942
+                    [processing] => 0.011741161346436
+                    [date_start] => 2019-04-04T18:54:39+03:00
+                    [date_finish] => 2019-04-04T18:54:39+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 571
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 571
+                            [ACTIVE] => 1
+                            [EMAIL] => bp@wow-how.com
+                            [NAME] => Prime
+                            [LAST_NAME] => Lab
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393279.8111
+                    [finish] => 1554393279.845
+                    [duration] => 0.033955097198486
+                    [processing] => 0.014467000961304
+                    [date_start] => 2019-04-04T18:54:39+03:00
+                    [date_finish] => 2019-04-04T18:54:39+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => INVOICE_STATUS
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 183
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => S
+                            [NAME] => Відправлено клієнту
+                            [NAME_INIT] => 
+                            [SORT] => 20
+                            [SYSTEM] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 177
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => D
+                            [NAME] => Відхилено
+                            [NAME_INIT] => Відхилено
+                            [SORT] => 70
+                            [SYSTEM] => Y
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 181
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => P
+                            [NAME] => Оплачено
+                            [NAME_INIT] => Оплачено
+                            [SORT] => 60
+                            [SYSTEM] => Y
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 185
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => U
+                            [NAME] => Оплачено частично
+                            [NAME_INIT] => 
+                            [SORT] => 40
+                            [SYSTEM] => N
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 175
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => A
+                            [NAME] => Підтверджено
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 179
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => N
+                            [NAME] => Чернетка
+                            [NAME_INIT] => Чернетка
+                            [SORT] => 10
+                            [SYSTEM] => Y
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393281.049
+                    [finish] => 1554393281.0729
+                    [duration] => 0.023923873901367
+                    [processing] => 0.0017809867858887
+                    [date_start] => 2019-04-04T18:54:41+03:00
+                    [date_finish] => 2019-04-04T18:54:41+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.invoice.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [DATE_INSERT] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [UF_DEAL_ID] => 100
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_INSERT
+                    [2] => STATUS_ID
+                    [3] => PRICE
+                    [4] => CURRENCY
+                )
+
+            [start] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-03-21T18:02:45+03:00
+                            [ID] => 66
+                            [PRICE] => 5000
+                            [STATUS_ID] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-03-28T11:15:09+03:00
+                            [ID] => 67
+                            [PRICE] => 2000
+                            [STATUS_ID] => P
+                        )
+
+                    [2] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-04-02T15:00:57+03:00
+                            [ID] => 69
+                            [PRICE] => 10000
+                            [STATUS_ID] => N
+                        )
+
+                )
+
+            [total] => 3
+            [time] => Array
+                (
+                    [start] => 1554393282.2251
+                    [finish] => 1554393282.2682
+                    [duration] => 0.043076038360596
+                    [processing] => 0.024712085723877
+                    [date_start] => 2019-04-04T18:54:42+03:00
+                    [date_finish] => 2019-04-04T18:54:42+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.item.list
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [DATE_START] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [GROUP_ID] => 2123
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [TITLE] => test task
+                            [STAGE_ID] => 0
+                            [DESCRIPTION] => 
+                            [DEADLINE] => 
+                            [START_DATE_PLAN] => 2019-03-27T10:00:00+03:00
+                            [END_DATE_PLAN] => 2019-03-27T20:00:00+03:00
+                            [PRIORITY] => 1
+                            [ALLOW_CHANGE_DEADLINE] => Y
+                            [ALLOW_CHANGE_DEADLINE_COUNT] => 
+                            [ALLOW_CHANGE_DEADLINE_COUNT_VALUE] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME_VALUE] => 
+                            [TASK_CONTROL] => N
+                            [PARENT_ID] => 
+                            [GROUP_ID] => 2123
+                            [RESPONSIBLE_ID] => 573
+                            [TIME_ESTIMATE] => 36000
+                            [ID] => 27069
+                            [CREATED_BY] => 573
+                            [DESCRIPTION_IN_BBCODE] => Y
+                            [DECLINE_REASON] => 
+                            [REAL_STATUS] => 3
+                            [STATUS] => 3
+                            [RESPONSIBLE_NAME] => Project
+                            [RESPONSIBLE_LAST_NAME] => Bot
+                            [RESPONSIBLE_SECOND_NAME] => 
+                            [DATE_START] => 2019-03-27T16:15:30+03:00
+                            [DURATION_FACT] => 1431
+                            [DURATION_PLAN] => 10
+                            [DURATION_TYPE] => hours
+                            [CREATED_BY_NAME] => Project
+                            [CREATED_BY_LAST_NAME] => Bot
+                            [CREATED_BY_SECOND_NAME] => 
+                            [CREATED_DATE] => 2019-03-27T16:14:42+03:00
+                            [CHANGED_BY] => 573
+                            [CHANGED_DATE] => 2019-03-27T16:17:25+03:00
+                            [STATUS_CHANGED_BY] => 573
+                            [STATUS_CHANGED_DATE] => 2019-03-27T16:15:47+03:00
+                            [CLOSED_BY] => 
+                            [CLOSED_DATE] => 
+                            [GUID] => {ed8fcaa0-aadf-4d7d-b834-05f6bbe76ce4}
+                            [MARK] => 
+                            [VIEWED_DATE] => 2019-03-28T15:13:23+03:00
+                            [TIME_SPENT_IN_LOGS] => 85886
+                            [FAVORITE] => N
+                            [ALLOW_TIME_TRACKING] => Y
+                            [MATCH_WORK_TIME] => N
+                            [ADD_IN_REPORT] => N
+                            [FORUM_ID] => 
+                            [FORUM_TOPIC_ID] => 
+                            [COMMENTS_COUNT] => 
+                            [SITE_ID] => s1
+                            [SUBORDINATE] => N
+                            [FORKED_BY_TEMPLATE_ID] => 
+                            [MULTITASK] => N
+                            [ALLOWED_ACTIONS] => Array
+                                (
+                                    [ACTION_ACCEPT] => 
+                                    [ACTION_DECLINE] => 
+                                    [ACTION_COMPLETE] => 1
+                                    [ACTION_APPROVE] => 
+                                    [ACTION_DISAPPROVE] => 
+                                    [ACTION_START] => 
+                                    [ACTION_PAUSE] => 1
+                                    [ACTION_DELEGATE] => 1
+                                    [ACTION_REMOVE] => 1
+                                    [ACTION_EDIT] => 1
+                                    [ACTION_DEFER] => 1
+                                    [ACTION_RENEW] => 
+                                    [ACTION_CREATE] => 
+                                    [ACTION_CHANGE_DEADLINE] => 1
+                                    [ACTION_CHECKLIST_ADD_ITEMS] => 1
+                                    [ACTION_CHECKLIST_REORDER_ITEMS] => 1
+                                    [ACTION_CHANGE_DIRECTOR] => 1
+                                    [ACTION_ELAPSED_TIME_ADD] => 1
+                                    [ACTION_START_TIME_TRACKING] => 1
+                                    [ACTION_ADD_FAVORITE] => 1
+                                    [ACTION_DELETE_FAVORITE] => 
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [TITLE] => Test task
+                            [STAGE_ID] => 0
+                            [DESCRIPTION] => 
+                            [DEADLINE] => 
+                            [START_DATE_PLAN] => 
+                            [END_DATE_PLAN] => 
+                            [PRIORITY] => 1
+                            [ALLOW_CHANGE_DEADLINE] => Y
+                            [ALLOW_CHANGE_DEADLINE_COUNT] => 
+                            [ALLOW_CHANGE_DEADLINE_COUNT_VALUE] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME_VALUE] => 
+                            [TASK_CONTROL] => N
+                            [PARENT_ID] => 
+                            [GROUP_ID] => 2123
+                            [RESPONSIBLE_ID] => 571
+                            [TIME_ESTIMATE] => 10800
+                            [ID] => 27133
+                            [CREATED_BY] => 571
+                            [DESCRIPTION_IN_BBCODE] => Y
+                            [DECLINE_REASON] => 
+                            [REAL_STATUS] => 2
+                            [STATUS] => 2
+                            [RESPONSIBLE_NAME] => Prime
+                            [RESPONSIBLE_LAST_NAME] => Lab
+                            [RESPONSIBLE_SECOND_NAME] => 
+                            [DATE_START] => 
+                            [DURATION_FACT] => 60
+                            [DURATION_PLAN] => 
+                            [DURATION_TYPE] => days
+                            [CREATED_BY_NAME] => Prime
+                            [CREATED_BY_LAST_NAME] => Lab
+                            [CREATED_BY_SECOND_NAME] => 
+                            [CREATED_DATE] => 2019-03-28T15:02:43+03:00
+                            [CHANGED_BY] => 573
+                            [CHANGED_DATE] => 2019-03-28T15:12:45+03:00
+                            [STATUS_CHANGED_BY] => 573
+                            [STATUS_CHANGED_DATE] => 2019-03-28T15:02:43+03:00
+                            [CLOSED_BY] => 
+                            [CLOSED_DATE] => 
+                            [GUID] => {f5230b47-5464-4673-a29c-3e39f862149f}
+                            [MARK] => 
+                            [VIEWED_DATE] => 2019-03-28T15:12:35+03:00
+                            [TIME_SPENT_IN_LOGS] => 3600
+                            [FAVORITE] => N
+                            [ALLOW_TIME_TRACKING] => Y
+                            [MATCH_WORK_TIME] => N
+                            [ADD_IN_REPORT] => N
+                            [FORUM_ID] => 
+                            [FORUM_TOPIC_ID] => 
+                            [COMMENTS_COUNT] => 
+                            [SITE_ID] => s1
+                            [SUBORDINATE] => N
+                            [FORKED_BY_TEMPLATE_ID] => 
+                            [MULTITASK] => N
+                            [ALLOWED_ACTIONS] => Array
+                                (
+                                    [ACTION_ACCEPT] => 
+                                    [ACTION_DECLINE] => 
+                                    [ACTION_COMPLETE] => 1
+                                    [ACTION_APPROVE] => 
+                                    [ACTION_DISAPPROVE] => 
+                                    [ACTION_START] => 
+                                    [ACTION_PAUSE] => 
+                                    [ACTION_DELEGATE] => 
+                                    [ACTION_REMOVE] => 1
+                                    [ACTION_EDIT] => 1
+                                    [ACTION_DEFER] => 
+                                    [ACTION_RENEW] => 
+                                    [ACTION_CREATE] => 
+                                    [ACTION_CHANGE_DEADLINE] => 1
+                                    [ACTION_CHECKLIST_ADD_ITEMS] => 1
+                                    [ACTION_CHECKLIST_REORDER_ITEMS] => 1
+                                    [ACTION_CHANGE_DIRECTOR] => 1
+                                    [ACTION_ELAPSED_TIME_ADD] => 1
+                                    [ACTION_START_TIME_TRACKING] => 
+                                    [ACTION_ADD_FAVORITE] => 1
+                                    [ACTION_DELETE_FAVORITE] => 
+                                )
+
+                        )
+
+                )
+
+            [total] => 2
+            [time] => Array
+                (
+                    [start] => 1554393283.4696
+                    [finish] => 1554393283.4942
+                    [duration] => 0.024618148803711
+                    [processing] => 0.0048627853393555
+                    [date_start] => 2019-04-04T18:54:43+03:00
+                    [date_finish] => 2019-04-04T18:54:43+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.elapseditem.getlist
+    [PARAMS] => Array
+        (
+            [TASKID] => 27069
+            [ORDER] => Array
+                (
+                    [CREATED_DATE] => asc
+                )
+
+            [FILTER] => Array
+                (
+                    [>=CREATED_DATE] => 2019-03-21 00:00:00
+                    [<=CREATED_DATE] => 2019-04-04 23:59:59
+                )
+
+            [SELECT] => Array
+                (
+                    [0] => *
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 221899
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 7314
+                            [MINUTES] => 122
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-03-27T16:17:34+03:00
+                            [DATE_START] => 2019-03-27T16:17:34+03:00
+                            [DATE_STOP] => 2019-03-27T18:19:28+03:00
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 221813
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 3600
+                            [MINUTES] => 60
+                            [SOURCE] => 2
+                            [CREATED_DATE] => 2019-03-27T16:24:49+03:00
+                            [DATE_START] => 2019-03-27T17:24:49+03:00
+                            [DATE_STOP] => 2019-03-27T17:24:49+03:00
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 221967
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 5358
+                            [MINUTES] => 89
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-03-27T18:23:48+03:00
+                            [DATE_START] => 2019-03-27T18:23:48+03:00
+                            [DATE_STOP] => 2019-03-27T19:53:06+03:00
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 222193
+                            [TASK_ID] => 27069
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 69614
+                            [MINUTES] => 1160
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-03-27T19:53:12+03:00
+                            [DATE_START] => 2019-03-27T19:53:12+03:00
+                            [DATE_STOP] => 2019-03-28T15:13:26+03:00
+                        )
+
+                )
+
+            [total] => 4
+            [time] => Array
+                (
+                    [start] => 1554393284.6553
+                    [finish] => 1554393284.7016
+                    [duration] => 0.04637598991394
+                    [processing] => 0.021655082702637
+                    [date_start] => 2019-04-04T18:54:44+03:00
+                    [date_finish] => 2019-04-04T18:54:44+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.elapseditem.getlist
+    [PARAMS] => Array
+        (
+            [TASKID] => 27133
+            [ORDER] => Array
+                (
+                    [CREATED_DATE] => asc
+                )
+
+            [FILTER] => Array
+                (
+                    [>=CREATED_DATE] => 2019-03-21 00:00:00
+                    [<=CREATED_DATE] => 2019-04-04 23:59:59
+                )
+
+            [SELECT] => Array
+                (
+                    [0] => *
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 222189
+                            [TASK_ID] => 27133
+                            [USER_ID] => 571
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 3600
+                            [MINUTES] => 60
+                            [SOURCE] => 2
+                            [CREATED_DATE] => 2019-03-28T15:03:01+03:00
+                            [DATE_START] => 2019-03-28T16:03:01+03:00
+                            [DATE_STOP] => 2019-03-28T16:03:01+03:00
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393284.8409
+                    [finish] => 1554393284.9088
+                    [duration] => 0.067965984344482
+                    [processing] => 0.018779039382935
+                    [date_start] => 2019-04-04T18:54:44+03:00
+                    [date_finish] => 2019-04-04T18:54:44+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2149
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2149
+                            [SITE_ID] => s1
+                            [NAME] => test project 2
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-04-04T17:27:52+03:00
+                            [DATE_UPDATE] => 2019-04-04T17:27:52+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 573
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 1
+                            [DATE_ACTIVITY] => 2019-04-04T17:29:54+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393285.0486
+                    [finish] => 1554393285.0755
+                    [duration] => 0.026877880096436
+                    [processing] => 0.0040171146392822
+                    [date_start] => 2019-04-04T18:54:45+03:00
+                    [date_finish] => 2019-04-04T18:54:45+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-03-21 00:00:00
+                    [<=DATE_CREATE] => 2019-04-04 23:59:59
+                    [UF_CRM_PROJECT] => 2149
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 101
+                            [DATE_CREATE] => 2019-04-04T17:25:10+03:00
+                            [TITLE] => test deal
+                            [CONTACT_ID] => 
+                            [COMPANY_ID] => 0
+                            [LEAD_ID] => 
+                            [STAGE_ID] => DETAILS
+                            [CREATED_BY_ID] => 573
+                            [ASSIGNED_BY_ID] => 573
+                            [OPPORTUNITY] => 3000.00
+                            [UF_CRM_1549021620] => 100
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 500 - sth
+                                    [1] => 600 - sth else
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393285.2209
+                    [finish] => 1554393285.252
+                    [duration] => 0.031137943267822
+                    [processing] => 0.01041579246521
+                    [date_start] => 2019-04-04T18:54:45+03:00
+                    [date_finish] => 2019-04-04T18:54:45+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => DEAL_STAGE
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 121
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => ON_HOLD
+                            [NAME] => Обробка припинена
+                            [NAME_INIT] => 
+                            [SORT] => 60
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => apology
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 113
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => DETAILS
+                            [NAME] => обсуждение
+                            [NAME_INIT] => 
+                            [SORT] => 10
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 111
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEW
+                            [NAME] => Оценка
+                            [NAME_INIT] => В опрацюванні
+                            [SORT] => 20
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 117
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEGOTIATION
+                            [NAME] => Переговоры
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 123
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => LOSE
+                            [NAME] => Угода не укладена
+                            [NAME_INIT] => Угода не укладена
+                            [SORT] => 50
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => failure
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 119
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => WON
+                            [NAME] => Угода укладена
+                            [NAME_INIT] => Угода укладена
+                            [SORT] => 40
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => success
+                                    [COLOR] => #DBF199
+                                )
+
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393286.4038
+                    [finish] => 1554393286.4269
+                    [duration] => 0.023108959197998
+                    [processing] => 0.0026350021362305
+                    [date_start] => 2019-04-04T18:54:46+03:00
+                    [date_finish] => 2019-04-04T18:54:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 573
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 573
+                            [ACTIVE] => 1
+                            [EMAIL] => bpp@wow-how.com
+                            [NAME] => Project
+                            [LAST_NAME] => Bot
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393287.5654
+                    [finish] => 1554393287.5966
+                    [duration] => 0.031160116195679
+                    [processing] => 0.01329517364502
+                    [date_start] => 2019-04-04T18:54:47+03:00
+                    [date_finish] => 2019-04-04T18:54:47+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 573
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 573
+                            [ACTIVE] => 1
+                            [EMAIL] => bpp@wow-how.com
+                            [NAME] => Project
+                            [LAST_NAME] => Bot
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393287.8517
+                    [finish] => 1554393287.8892
+                    [duration] => 0.037479877471924
+                    [processing] => 0.013472080230713
+                    [date_start] => 2019-04-04T18:54:47+03:00
+                    [date_finish] => 2019-04-04T18:54:47+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => INVOICE_STATUS
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 183
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => S
+                            [NAME] => Відправлено клієнту
+                            [NAME_INIT] => 
+                            [SORT] => 20
+                            [SYSTEM] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 177
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => D
+                            [NAME] => Відхилено
+                            [NAME_INIT] => Відхилено
+                            [SORT] => 70
+                            [SYSTEM] => Y
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 181
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => P
+                            [NAME] => Оплачено
+                            [NAME_INIT] => Оплачено
+                            [SORT] => 60
+                            [SYSTEM] => Y
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 185
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => U
+                            [NAME] => Оплачено частично
+                            [NAME_INIT] => 
+                            [SORT] => 40
+                            [SYSTEM] => N
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 175
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => A
+                            [NAME] => Підтверджено
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 179
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => N
+                            [NAME] => Чернетка
+                            [NAME_INIT] => Чернетка
+                            [SORT] => 10
+                            [SYSTEM] => Y
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554393289.0381
+                    [finish] => 1554393289.0609
+                    [duration] => 0.022829055786133
+                    [processing] => 0.0020508766174316
+                    [date_start] => 2019-04-04T18:54:49+03:00
+                    [date_finish] => 2019-04-04T18:54:49+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.invoice.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [DATE_INSERT] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [UF_DEAL_ID] => 101
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_INSERT
+                    [2] => STATUS_ID
+                    [3] => PRICE
+                    [4] => CURRENCY
+                )
+
+            [start] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554393290.2005
+                    [finish] => 1554393290.2362
+                    [duration] => 0.035776138305664
+                    [processing] => 0.013017177581787
+                    [date_start] => 2019-04-04T18:54:50+03:00
+                    [date_finish] => 2019-04-04T18:54:50+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.item.list
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [DATE_START] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [GROUP_ID] => 2149
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [TITLE] => test task 2
+                            [STAGE_ID] => 0
+                            [DESCRIPTION] => 
+                            [DEADLINE] => 
+                            [START_DATE_PLAN] => 2019-04-05T09:00:00+03:00
+                            [END_DATE_PLAN] => 2019-04-07T11:00:00+03:00
+                            [PRIORITY] => 1
+                            [ALLOW_CHANGE_DEADLINE] => Y
+                            [ALLOW_CHANGE_DEADLINE_COUNT] => 
+                            [ALLOW_CHANGE_DEADLINE_COUNT_VALUE] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME] => 
+                            [ALLOW_CHANGE_DEADLINE_MAXTIME_VALUE] => 
+                            [TASK_CONTROL] => N
+                            [PARENT_ID] => 
+                            [GROUP_ID] => 2149
+                            [RESPONSIBLE_ID] => 573
+                            [TIME_ESTIMATE] => 180000
+                            [ID] => 27591
+                            [CREATED_BY] => 573
+                            [DESCRIPTION_IN_BBCODE] => Y
+                            [DECLINE_REASON] => 
+                            [REAL_STATUS] => 3
+                            [STATUS] => 3
+                            [RESPONSIBLE_NAME] => Project
+                            [RESPONSIBLE_LAST_NAME] => Bot
+                            [RESPONSIBLE_SECOND_NAME] => 
+                            [DATE_START] => 2019-04-04T17:30:06+03:00
+                            [DURATION_FACT] => 0
+                            [DURATION_PLAN] => 50
+                            [DURATION_TYPE] => hours
+                            [CREATED_BY_NAME] => Project
+                            [CREATED_BY_LAST_NAME] => Bot
+                            [CREATED_BY_SECOND_NAME] => 
+                            [CREATED_DATE] => 2019-04-04T17:29:54+03:00
+                            [CHANGED_BY] => 573
+                            [CHANGED_DATE] => 2019-04-04T17:30:06+03:00
+                            [STATUS_CHANGED_BY] => 573
+                            [STATUS_CHANGED_DATE] => 2019-04-04T17:30:06+03:00
+                            [CLOSED_BY] => 
+                            [CLOSED_DATE] => 
+                            [GUID] => {1e5875f2-8e7d-4d5b-adf6-93cddc3361a9}
+                            [MARK] => 
+                            [VIEWED_DATE] => 2019-04-04T17:30:03+03:00
+                            [TIME_SPENT_IN_LOGS] => 15
+                            [FAVORITE] => N
+                            [ALLOW_TIME_TRACKING] => Y
+                            [MATCH_WORK_TIME] => N
+                            [ADD_IN_REPORT] => N
+                            [FORUM_ID] => 
+                            [FORUM_TOPIC_ID] => 
+                            [COMMENTS_COUNT] => 
+                            [SITE_ID] => s1
+                            [SUBORDINATE] => N
+                            [FORKED_BY_TEMPLATE_ID] => 
+                            [MULTITASK] => N
+                            [ALLOWED_ACTIONS] => Array
+                                (
+                                    [ACTION_ACCEPT] => 
+                                    [ACTION_DECLINE] => 
+                                    [ACTION_COMPLETE] => 1
+                                    [ACTION_APPROVE] => 
+                                    [ACTION_DISAPPROVE] => 
+                                    [ACTION_START] => 
+                                    [ACTION_PAUSE] => 1
+                                    [ACTION_DELEGATE] => 1
+                                    [ACTION_REMOVE] => 1
+                                    [ACTION_EDIT] => 1
+                                    [ACTION_DEFER] => 1
+                                    [ACTION_RENEW] => 
+                                    [ACTION_CREATE] => 
+                                    [ACTION_CHANGE_DEADLINE] => 1
+                                    [ACTION_CHECKLIST_ADD_ITEMS] => 1
+                                    [ACTION_CHECKLIST_REORDER_ITEMS] => 1
+                                    [ACTION_CHANGE_DIRECTOR] => 1
+                                    [ACTION_ELAPSED_TIME_ADD] => 1
+                                    [ACTION_START_TIME_TRACKING] => 1
+                                    [ACTION_ADD_FAVORITE] => 1
+                                    [ACTION_DELETE_FAVORITE] => 
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393290.4013
+                    [finish] => 1554393290.435
+                    [duration] => 0.033674001693726
+                    [processing] => 0.0088770389556885
+                    [date_start] => 2019-04-04T18:54:50+03:00
+                    [date_finish] => 2019-04-04T18:54:50+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.elapseditem.getlist
+    [PARAMS] => Array
+        (
+            [TASKID] => 27591
+            [ORDER] => Array
+                (
+                    [CREATED_DATE] => asc
+                )
+
+            [FILTER] => Array
+                (
+                    [>=CREATED_DATE] => 2019-03-21 00:00:00
+                    [<=CREATED_DATE] => 2019-04-04 23:59:59
+                )
+
+            [SELECT] => Array
+                (
+                    [0] => *
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 224463
+                            [TASK_ID] => 27591
+                            [USER_ID] => 573
+                            [COMMENT_TEXT] => 
+                            [SECONDS] => 15
+                            [MINUTES] => 0
+                            [SOURCE] => 3
+                            [CREATED_DATE] => 2019-04-04T17:30:06+03:00
+                            [DATE_START] => 2019-04-04T17:30:06+03:00
+                            [DATE_STOP] => 2019-04-04T17:30:21+03:00
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554393291.5903
+                    [finish] => 1554393291.6276
+                    [duration] => 0.037251949310303
+                    [processing] => 0.01571798324585
+                    [date_start] => 2019-04-04T18:54:51+03:00
+                    [date_finish] => 2019-04-04T18:54:51+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+

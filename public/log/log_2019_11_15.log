@@ -1,0 +1,1437 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 0
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837523.5242
+                    [finish] => 1573837523.5513
+                    [duration] => 0.027156829833984
+                    [processing] => 0.0022151470184326
+                    [date_start] => 2019-11-15T20:05:23+03:00
+                    [date_finish] => 2019-11-15T20:05:23+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => e2e8ce5d00389e5e00091bec0000018ff0f103985d8bf5e703a2967e2f1cfd13e9ca7b
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 585
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837568.0275
+                    [finish] => 1573837568.0674
+                    [duration] => 0.039819002151489
+                    [processing] => 0.0030298233032227
+                    [date_start] => 2019-11-15T20:06:08+03:00
+                    [date_finish] => 2019-11-15T20:06:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 585
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 0fe9ce5d00389e5e00091bec0000018ff0f1036b31e6bba963d0bb21f35582b2d4e4ab
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 585
+                    [TITLE] => Potluck scope 59
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 104.00
+                    [TAX_VALUE] => 0.00
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-11-15T03:00:00+03:00
+                    [CLOSEDATE] => 2019-11-15T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-11-15T20:05:58+03:00
+                    [DATE_MODIFY] => 2019-11-15T20:06:03+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 34.67
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 
+                    [UF_CRM_1554889136] => 3
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837568.2287
+                    [finish] => 1573837568.2753
+                    [duration] => 0.046521902084351
+                    [processing] => 0.012686014175415
+                    [date_start] => 2019-11-15T20:06:08+03:00
+                    [date_finish] => 2019-11-15T20:06:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 0fe9ce5d00389e5e00091bec0000018ff0f1036b31e6bba963d0bb21f35582b2d4e4ab
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1573837568.4354
+                    [finish] => 1573837568.4639
+                    [duration] => 0.028495073318481
+                    [processing] => 0.0041849613189697
+                    [date_start] => 2019-11-15T20:06:08+03:00
+                    [date_finish] => 2019-11-15T20:06:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => view
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 585
+            [VALUE] => 2863
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837578.4336
+                    [finish] => 1573837578.4668
+                    [duration] => 0.033149003982544
+                    [processing] => 0.0047769546508789
+                    [date_start] => 2019-11-15T20:06:18+03:00
+                    [date_finish] => 2019-11-15T20:06:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 585
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 1ae9ce5d00389e5e00091bec0000018ff0f103bdc49d4e83aa834e13be85d0c0928101
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 585
+                    [TITLE] => Potluck scope 59
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 104.00
+                    [TAX_VALUE] => 0.00
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-11-15T03:00:00+03:00
+                    [CLOSEDATE] => 2019-11-15T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-11-15T20:05:58+03:00
+                    [DATE_MODIFY] => 2019-11-15T20:06:17+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 34.67
+                    [UF_CRM_PROJECT] => 2863
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 
+                    [UF_CRM_1554889136] => 3
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837578.6466
+                    [finish] => 1573837578.7178
+                    [duration] => 0.07122802734375
+                    [processing] => 0.015724897384644
+                    [date_start] => 2019-11-15T20:06:18+03:00
+                    [date_finish] => 2019-11-15T20:06:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2863
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 1ae9ce5d00389e5e00091bec0000018ff0f103bdc49d4e83aa834e13be85d0c0928101
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2863
+                            [SITE_ID] => s1
+                            [NAME] => Potluck scope 59
+                            [DESCRIPTION] => Ссылка на ДС: z:\_WOW-HOW Studio\_VIDEO_PRJ\_Potluck\_Potluck_59
+
+                            [DATE_CREATE] => 2019-11-07T19:05:40+03:00
+                            [DATE_UPDATE] => 2019-11-07T19:18:34+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 579
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 6
+                            [DATE_ACTIVITY] => 2019-11-08T11:11:07+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1573837578.8719
+                    [finish] => 1573837578.9034
+                    [duration] => 0.031507015228271
+                    [processing] => 0.0056319236755371
+                    [date_start] => 2019-11-15T20:06:18+03:00
+                    [date_finish] => 2019-11-15T20:06:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 0
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837585.5029
+                    [finish] => 1573837585.5368
+                    [duration] => 0.033905029296875
+                    [processing] => 0.0040488243103027
+                    [date_start] => 2019-11-15T20:06:25+03:00
+                    [date_finish] => 2019-11-15T20:06:25+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 21e9ce5d00389e5e00091bec0000018ff0f103aa9bfbb27ba4a5ed019932d1914b10fe
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 587
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837648.5649
+                    [finish] => 1573837648.5889
+                    [duration] => 0.023981094360352
+                    [processing] => 0.0025911331176758
+                    [date_start] => 2019-11-15T20:07:28+03:00
+                    [date_finish] => 2019-11-15T20:07:28+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 587
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 60e9ce5d00389e5e00091bec0000018ff0f10379899dcd98e245fac11c1778509be097
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 587
+                    [TITLE] => StemeXe 6 episodes scope 2  
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 6500.00
+                    [TAX_VALUE] => 0.00
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2557
+                    [CONTACT_ID] => 6069
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-11-15T03:00:00+03:00
+                    [CLOSEDATE] => 2019-11-15T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-11-15T20:07:15+03:00
+                    [DATE_MODIFY] => 2019-11-15T20:07:20+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 2
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 657
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 0
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837648.7402
+                    [finish] => 1573837648.7768
+                    [duration] => 0.036669015884399
+                    [processing] => 0.013580083847046
+                    [date_start] => 2019-11-15T20:07:28+03:00
+                    [date_finish] => 2019-11-15T20:07:28+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 60e9ce5d00389e5e00091bec0000018ff0f10379899dcd98e245fac11c1778509be097
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1573837648.9395
+                    [finish] => 1573837648.9686
+                    [duration] => 0.029086112976074
+                    [processing] => 0.0028929710388184
+                    [date_start] => 2019-11-15T20:07:28+03:00
+                    [date_finish] => 2019-11-15T20:07:28+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => view
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 587
+            [VALUE] => 2877
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837660.7112
+                    [finish] => 1573837660.7417
+                    [duration] => 0.030495882034302
+                    [processing] => 0.0018649101257324
+                    [date_start] => 2019-11-15T20:07:40+03:00
+                    [date_finish] => 2019-11-15T20:07:40+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 587
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 6ce9ce5d00389e5e00091bec0000018ff0f1038598150c3843ac453751c88296711a2e
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 587
+                    [TITLE] => StemeXe 6 episodes scope 2  
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 6500.00
+                    [TAX_VALUE] => 0.00
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2557
+                    [CONTACT_ID] => 6069
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-11-15T03:00:00+03:00
+                    [CLOSEDATE] => 2019-11-15T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-11-15T20:07:15+03:00
+                    [DATE_MODIFY] => 2019-11-15T20:07:39+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 2
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 2877
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 657
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 0
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837660.9036
+                    [finish] => 1573837660.955
+                    [duration] => 0.051451921463013
+                    [processing] => 0.017625093460083
+                    [date_start] => 2019-11-15T20:07:40+03:00
+                    [date_finish] => 2019-11-15T20:07:40+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2877
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 6ce9ce5d00389e5e00091bec0000018ff0f1038598150c3843ac453751c88296711a2e
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2877
+                            [SITE_ID] => ex
+                            [NAME] => StemeXe 6 episodes scope 2
+                            [DESCRIPTION] => Суть задачи: создание шести эпизодов о приложении StemeXe (бизнес-тематика).
+Ссылка на ДС: Z:\_WOW-HOW Studio\_VIDEO_PRJ\_StemeXe 6 episodes scope 2
+                            [DATE_CREATE] => 2019-11-12T14:15:42+03:00
+                            [DATE_UPDATE] => 2019-11-12T15:31:11+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => N
+                            [OPENED] => N
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 515
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 6
+                            [DATE_ACTIVITY] => 2019-11-12T15:31:11+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/70d/70da22503f7d41745eb627d7322a2c8e/445fbc50-fb0c-4fa3-b98e-2944e5c245c1.png
+                            [IS_EXTRANET] => Y
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1573837661.0956
+                    [finish] => 1573837661.1279
+                    [duration] => 0.032293796539307
+                    [processing] => 0.0072929859161377
+                    [date_start] => 2019-11-15T20:07:41+03:00
+                    [date_finish] => 2019-11-15T20:07:41+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 0
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837676.6785
+                    [finish] => 1573837676.7087
+                    [duration] => 0.030236959457397
+                    [processing] => 0.0024609565734863
+                    [date_start] => 2019-11-15T20:07:56+03:00
+                    [date_finish] => 2019-11-15T20:07:56+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 7ce9ce5d00389e5e00091bec0000018ff0f103e8949858ef12fd2d1a022192a2c96253
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 589
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 399
+                    [ACTIVE] => 1
+                    [EMAIL] => anastasia.natkovych@wow-how.com
+                    [NAME] => Anastasia
+                    [LAST_NAME] => Natkovych
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1996-03-21T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/626/6269b4610fd4bbf51a2c61ba14017e82/avatar.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380677246119
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Team Lead of BDM Remote
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837733.7719
+                    [finish] => 1573837733.7967
+                    [duration] => 0.024807929992676
+                    [processing] => 0.0022339820861816
+                    [date_start] => 2019-11-15T20:08:53+03:00
+                    [date_finish] => 2019-11-15T20:08:53+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 589
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => b5e9ce5d00389e5e00091bec0000018ff0f1037f3c161cee0a79ddcf60e852b0a3e20f
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 589
+                    [TITLE] => RPK & RZA 2D animation video   
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1030.00
+                    [TAX_VALUE] => 0.00
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-11-15T03:00:00+03:00
+                    [CLOSEDATE] => 2019-11-15T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-11-15T20:08:38+03:00
+                    [DATE_MODIFY] => 2019-11-15T20:08:44+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 2
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 657
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 0
+                )
+
+            [time] => Array
+                (
+                    [start] => 1573837733.9623
+                    [finish] => 1573837733.9984
+                    [duration] => 0.036136865615845
+                    [processing] => 0.01218581199646
+                    [date_start] => 2019-11-15T20:08:53+03:00
+                    [date_finish] => 2019-11-15T20:08:53+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => b5e9ce5d00389e5e00091bec0000018ff0f1037f3c161cee0a79ddcf60e852b0a3e20f
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1573837734.1538
+                    [finish] => 1573837734.184
+                    [duration] => 0.030293941497803
+                    [processing] => 0.0033888816833496
+                    [date_start] => 2019-11-15T20:08:54+03:00
+                    [date_finish] => 2019-11-15T20:08:54+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => view
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 589
+            [VALUE] => 2893
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [error] => NO_AUTH_FOUND
+            [error_description] => Wrong authorization data
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 589
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 
+    [RESULT] => Array
+        (
+            [error] => NO_AUTH_FOUND
+            [error_description] => Wrong authorization data
+        )
+
+)
+
+_________________________________
+

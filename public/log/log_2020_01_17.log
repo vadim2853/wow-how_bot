@@ -1,0 +1,96 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 0
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 345
+                    [ACTIVE] => 1
+                    [EMAIL] => vadim.grigoriev@wow-how.com
+                    [NAME] => Vadim
+                    [LAST_NAME] => Grigoriev
+                    [SECOND_NAME] => Konstantinovich
+                    [PERSONAL_GENDER] => M
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1998-07-12T03:00:00+04:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/ea7/ea7127ba75bf261422441dcb2cf9c002/18671311_264976097301792_2085637923575169750_n.jpg
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380501920354
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => Харьков
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => System Administrator
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 68
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => https://www.facebook.com/profile.php?id=100013682110533&ref=bookmarks
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => vadim.2853.12052015@gmail.com
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1579260368.8959
+                    [finish] => 1579260368.9324
+                    [duration] => 0.036512851715088
+                    [processing] => 0.0091800689697266
+                    [date_start] => 2020-01-17T14:26:08+03:00
+                    [date_finish] => 2020-01-17T14:26:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => dfa7215e00389e5e00091bec00000159f0f103f67ca83b870f1778174da237d0b55105
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+

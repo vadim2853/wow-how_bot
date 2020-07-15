@@ -1,0 +1,303 @@
+.crm-entity-widget-content-inner-row {
+    position: relative;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-block-inner {
+    color: #424956;
+    word-break: break-all;
+    word-break: break-word;
+    font: 15px/17px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-appearance: none;
+}
+
+.bx-layout-inner-inner-table {
+    border-spacing: 0;
+    -webkit-appearance: none;
+}
+
+.bx-layout-inner-center {
+    text-align: left;
+    -webkit-appearance: none;
+}
+
+.crm-entity-card-widget-edit .crm-entity-widget-content-block-title {
+    padding-right: 0;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-block-title {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    margin-bottom: 5px;
+    padding-right: 20px;
+    color: #a3a9b1;
+    font: 12px/14px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-search-row {
+    position: relative;
+    margin: 0 0 8px;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-search-inner {
+    position: relative;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-search-box {
+    position: relative;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-img-box. crm-entity-widget-img-company {
+    background: url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2018%2018%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Ccircle%20cx%3D%229%22%20cy%3D%229%22%20r%3D%229%22%20fill%3D%22%2380868E%22%20opacity%3D%22.7%22/%3E%3Cg%20fill%3D%22%23FFF%22%20fill-rule%3D%22nonzero%22%3E%3Cpath%20d%3D%22M11.575%207.291V4.04a.5.5%200%200%200-.5-.5H5.189a.5.5%200%200%200-.5.5v9.656a.5.5%200%200%200%20.504.5l8.107-.068a.5.5%200%200%200%20.496-.5V7.791a.5.5%200%200%200-.5-.5h-1.721zm-1.262%205.493h-.938v-1.741h-2.67v1.741h-.937V4.813h4.612l-.067%207.971zm2.411-.335h-1.34v-1.34h1.34v1.34zm0-2.612h-1.34v-1.34h1.34v1.34z%22/%3E%3Cpath%20d%3D%22M6.906%205.818h2.437v1.339H6.906zM6.906%208.43h2.457v1.34H6.906z%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E) no-repeat;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-img-box {
+    position: absolute;
+    top: 50%;
+    right: 9px;
+    width: 25px;
+    height: 18px;
+    background: white;
+    background-size: 18px 18px;
+    -webkit-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-block-complete .crm-entity-widget-content-search-input {
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-search-input .crm-entity-widget-content-input {
+    padding: 10px 30px 10px 43px;
+    background-image: url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org…02.062-1.725%203.734-3.85%203.734z%22%20opacity%3D%22.534%22/%3E%3C/svg%3E);
+    background-position: right 10px center;
+    background-repeat: no-repeat;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-block-inner input {
+    max-width: 100%;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-input {
+    display: block;
+    box-sizing: border-box;
+    padding: 10px 9px;
+    min-height: 39px;
+    max-width: 100%;
+    width: 100%;
+    outline: 0;
+    border: 1px solid #c4c7cc;
+    border-radius: 1px;
+    background-color: #fff;
+    color: #424956;
+    font: 15px/17px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    transition: 220ms all ease;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-input {
+    -webkit-box-flex: 1.8;
+    -ms-flex: 1.8;
+    flex: 1.8;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.crm-entity-widget-content-input:hover {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: white;
+}
+
+input:hover {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: white;
+    content: "";
+}
+
+.crm-entity-widget-content-block-textreset .crm-entity-widget-btn-new {
+    right: 30px;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-btn-new {
+    display: none;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0 3px;
+    min-width: 43px;
+    max-width: 50px;
+    border-radius: 8px;
+    background: #c4f1ff;
+    color: rgba(82,92,105,.82);
+    text-align: center;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font: bold 7px/17px "Helvetica Neue",Arial,Helvetica,sans-serif;
+    cursor: pointer;
+    -o-text-overflow: ellipsis;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-block-complete .crm-entity-widget-content-search-box .crm-entity-widget-btn-close {
+    display: none;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-search-box .crm-entity-widget-btn-close {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    display: none;
+    width: 32px;
+    height: 36px;
+    -webkit-transform: translate(0%,-50%);
+    -ms-transform: translate(0%,-50%);
+    transform: translate(0%,-50%);
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-btn-close {
+    z-index: 1;
+    display: inline-block;
+    width: 18px;
+    height: 30px;
+    background: url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%209%209%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23525C69%22%20fill-rule%3D%22evenodd%22%20points%3D%22593.4%20676.6%20593.4%20673%20591.6%20673%20591.6%20676.6%20588%20676.6%20588%20678.4%20591.6%20678.4%20591.6%20682%20593.4%20682%20593.4%20678.4%20597%20678.4%20597%20676.6%22%20transform%3D%22rotate%2845%201110.883%20-368.779%29%22/%3E%0A%3C/svg%3E%0A) center center no-repeat;
+    background-size: auto;
+    background-size: 9px 9px;
+    opacity: .4;
+    cursor: pointer;
+    transition: opacity .3s;
+    -webkit-appearance: none;
+}
+
+.crm-entity-widget-content-search-row .crm-entity-widget-btn-close {
+    position: absolute;
+    top: 50%;
+    right: -22px;
+    -webkit-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+    -webkit-appearance: none;
+}
+
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+    padding: 1px 0px;
+    outline: 0;
+    -webkit-appearance: none;
+
+}
+
+.crm-entity-card-widget-edit .crm-entity-widget-content-block-inner {
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.crm-entity-widget-content-block-inner {
+    color: #424956;
+    word-break: break-all;
+    font: 15px/17px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0 0 0 0;
+    transition: 220ms opacity linear;
+}
+
+.crm-entity-widget-content-block .fields.enumeration {
+    display: block;
+}
+
+.field-wrap {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.field-item {
+    display: block;
+    margin-bottom: 0 !important;
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    color: #424956;
+    word-break: break-all;
+    font: 15px/17px "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.field-item.enumeration select {
+    padding: 10px 26px 10px 9px;
+    border-radius: 1px;
+    background: #fff no-repeat calc(100% - 6px) center url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2211%22%20height%3D%227%22%20viewBox%3D%220%200%2011%207%22%3E%20%20%3Cpath%20fill%3D%22%23979797%22%20fill-rule%3D%22evenodd%22%20d%3D%22M349.545942%2C95.4246212%20L349.545942%2C89.6066017%20L347.606602%2C89.6066017%20L347.606602%2C96.3942911%20L347.606602%2C97.363961%20L355.363961%2C97.363961%20L355.363961%2C95.4246212%20L349.545942%2C95.4246212%20Z%22%20transform%3D%22rotate%28-45%2067.431%20465.144%29%22/%3E%3C/svg%3E);
+    vertical-align: bottom;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    height: 39px;
+    display: block;
+    box-sizing: border-box;
+    min-height: 39px;
+    max-width: 100%;
+    width: 100%;
+    outline: 0;
+    border: 1px solid #c4c7cc;
+    color: #424956;
+    font: 15px/17px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    transition: 220ms all ease;
+    word-break: break-all;
+}
+
+.field-item select {
+    color: #424956;
+    font: 15px/17px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    word-break: break-all;
+}
+
+.crm-entity-widget-content-block-click-editable .crm-entity-widget-content-block-inner {
+    cursor: text;
+}
+
+.app-frame {
+    background-color: #f9fafb;
+}

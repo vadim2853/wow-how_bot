@@ -1,0 +1,44 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 0
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [error] => NO_AUTH_FOUND
+            [error_description] => Wrong authorization data
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 
+    [RESULT] => Array
+        (
+            [error] => NO_AUTH_FOUND
+            [error_description] => Wrong authorization data
+        )
+
+)
+
+_________________________________
+

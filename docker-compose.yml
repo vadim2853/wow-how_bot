@@ -1,0 +1,40 @@
+version: '3.7'
+services:
+       nginx:
+        image: nginx:latest
+        container_name: nginx
+        restart: always
+        networks:
+          - all
+        depends_on:
+          - php
+        volumes:
+          - ./conf/nginx/default.conf:/etc/nginx/conf.d/default.conf
+          - ./public/:/var/www/html
+        ports:
+          - 80:80
+          - 443:443
+
+       apache:
+        build: './setup/apache'
+        container_name: apache
+        restart: always
+        networks:
+          - all
+        depends_on:
+          - php
+        volumes:
+          - ./public/:/var/www/html
+        ports:
+          - 8080:80
+       php:
+        build: './setup/php'
+        container_name: php
+        restart: always
+        networks:
+          - all
+        volumes:
+          - ./public/:/var/www/html
+
+networks:
+  all:

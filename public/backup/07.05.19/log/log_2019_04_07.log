@@ -1,0 +1,1970 @@
+Array
+(
+    [from] => 2019-04-07
+    [to] => 2019-04-07
+    [projects] => Array
+        (
+            [0] => 
+        )
+
+    [domain] => wow-how.bitrix24.ua
+    [auth_id] => a039aa5c00389e5e00091bec0000000a0000030fe60351d3f1491bb60e62e7a4f1a296
+    [lang] => ru
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554656163.5988
+                    [finish] => 1554656163.6311
+                    [duration] => 0.032323122024536
+                    [processing] => 0.0048949718475342
+                    [date_start] => 2019-04-07T19:56:03+03:00
+                    [date_finish] => 2019-04-07T19:56:03+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-04-07 00:00:00
+                    [<=DATE_CREATE] => 2019-04-07 23:59:59
+                    [UF_CRM_PROJECT] => 
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554656163.8135
+                    [finish] => 1554656163.8498
+                    [duration] => 0.036315202713013
+                    [processing] => 0.020143985748291
+                    [date_start] => 2019-04-07T19:56:03+03:00
+                    [date_finish] => 2019-04-07T19:56:03+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [from] => 2019-03-01
+    [to] => 2019-04-07
+    [projects] => Array
+        (
+            [0] => 
+        )
+
+    [domain] => wow-how.bitrix24.ua
+    [auth_id] => a039aa5c00389e5e00091bec0000000a0000030fe60351d3f1491bb60e62e7a4f1a296
+    [lang] => ru
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554656179.3375
+                    [finish] => 1554656179.3685
+                    [duration] => 0.030977964401245
+                    [processing] => 0.0031487941741943
+                    [date_start] => 2019-04-07T19:56:19+03:00
+                    [date_finish] => 2019-04-07T19:56:19+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-03-01 00:00:00
+                    [<=DATE_CREATE] => 2019-04-07 23:59:59
+                    [UF_CRM_PROJECT] => 
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 100
+                            [DATE_CREATE] => 2019-03-21T19:02:34+03:00
+                            [TITLE] => Test primelab
+                            [CONTACT_ID] => 5887
+                            [COMPANY_ID] => 0
+                            [LEAD_ID] => 
+                            [STAGE_ID] => NEW
+                            [CREATED_BY_ID] => 571
+                            [ASSIGNED_BY_ID] => 571
+                            [OPPORTUNITY] => 10000.00
+                            [UF_CRM_1549021620] => 50
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 400 - music
+                                    [1] => 500 - sth
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 101
+                            [DATE_CREATE] => 2019-04-04T17:25:10+03:00
+                            [TITLE] => test deal
+                            [CONTACT_ID] => 
+                            [COMPANY_ID] => 0
+                            [LEAD_ID] => 
+                            [STAGE_ID] => DETAILS
+                            [CREATED_BY_ID] => 573
+                            [ASSIGNED_BY_ID] => 573
+                            [OPPORTUNITY] => 3000.00
+                            [UF_CRM_1549021620] => 100
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 500 - sth
+                                    [1] => 600 - sth else
+                                )
+
+                        )
+
+                )
+
+            [total] => 2
+            [time] => Array
+                (
+                    [start] => 1554656179.5188
+                    [finish] => 1554656179.5469
+                    [duration] => 0.02804708480835
+                    [processing] => 0.012115001678467
+                    [date_start] => 2019-04-07T19:56:19+03:00
+                    [date_finish] => 2019-04-07T19:56:19+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.contact.get
+    [PARAMS] => Array
+        (
+            [id] => 5887
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 5887
+                    [POST] => 
+                    [COMMENTS] => Re: Xpedition Media Script kick off
+                    [HONORIFIC] => 
+                    [NAME] => Derek Helwig
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => 
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => EMAIL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => N
+                    [HAS_PHONE] => N
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2019-02-25T18:25:53+03:00
+                    [DATE_MODIFY] => 2019-03-11T22:02:58+03:00
+                    [ASSIGNED_BY_ID] => 525
+                    [CREATED_BY_ID] => 525
+                    [MODIFY_BY_ID] => 525
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => email-tracker
+                    [ORIGIN_ID] => 27
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_COUNTRY_CODE] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [EMAIL] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [ID] => 35693
+                                    [VALUE_TYPE] => WORK
+                                    [VALUE] => derek@xpeditionmedia.com
+                                    [TYPE_ID] => EMAIL
+                                )
+
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1554656180.7002
+                    [finish] => 1554656180.7646
+                    [duration] => 0.064417123794556
+                    [processing] => 0.047168016433716
+                    [date_start] => 2019-04-07T19:56:20+03:00
+                    [date_finish] => 2019-04-07T19:56:20+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => DEAL_STAGE
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 121
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => ON_HOLD
+                            [NAME] => Обробка припинена
+                            [NAME_INIT] => 
+                            [SORT] => 60
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => apology
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 113
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => DETAILS
+                            [NAME] => обсуждение
+                            [NAME_INIT] => 
+                            [SORT] => 10
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 111
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEW
+                            [NAME] => Оценка
+                            [NAME_INIT] => В опрацюванні
+                            [SORT] => 20
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 117
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEGOTIATION
+                            [NAME] => Переговоры
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 123
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => LOSE
+                            [NAME] => Угода не укладена
+                            [NAME_INIT] => Угода не укладена
+                            [SORT] => 50
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => failure
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 119
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => WON
+                            [NAME] => Угода укладена
+                            [NAME_INIT] => Угода укладена
+                            [SORT] => 40
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => success
+                                    [COLOR] => #DBF199
+                                )
+
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554656180.9406
+                    [finish] => 1554656180.9659
+                    [duration] => 0.025350093841553
+                    [processing] => 0.0042049884796143
+                    [date_start] => 2019-04-07T19:56:20+03:00
+                    [date_finish] => 2019-04-07T19:56:20+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 571
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 571
+                            [ACTIVE] => 1
+                            [EMAIL] => bp@wow-how.com
+                            [NAME] => Prime
+                            [LAST_NAME] => Lab
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656182.1161
+                    [finish] => 1554656182.1451
+                    [duration] => 0.028977155685425
+                    [processing] => 0.011190891265869
+                    [date_start] => 2019-04-07T19:56:22+03:00
+                    [date_finish] => 2019-04-07T19:56:22+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 571
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 571
+                            [ACTIVE] => 1
+                            [EMAIL] => bp@wow-how.com
+                            [NAME] => Prime
+                            [LAST_NAME] => Lab
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 
+                            [PERSONAL_PHOTO] => 
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => 
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 68
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656182.2888
+                    [finish] => 1554656182.3142
+                    [duration] => 0.025456190109253
+                    [processing] => 0.0090970993041992
+                    [date_start] => 2019-04-07T19:56:22+03:00
+                    [date_finish] => 2019-04-07T19:56:22+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => INVOICE_STATUS
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 183
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => S
+                            [NAME] => Відправлено клієнту
+                            [NAME_INIT] => 
+                            [SORT] => 20
+                            [SYSTEM] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 177
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => D
+                            [NAME] => Відхилено
+                            [NAME_INIT] => Відхилено
+                            [SORT] => 70
+                            [SYSTEM] => Y
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 181
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => P
+                            [NAME] => Оплачено
+                            [NAME_INIT] => Оплачено
+                            [SORT] => 60
+                            [SYSTEM] => Y
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 185
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => U
+                            [NAME] => Оплачено частично
+                            [NAME_INIT] => 
+                            [SORT] => 40
+                            [SYSTEM] => N
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 175
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => A
+                            [NAME] => Підтверджено
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 179
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => N
+                            [NAME] => Чернетка
+                            [NAME_INIT] => Чернетка
+                            [SORT] => 10
+                            [SYSTEM] => Y
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554656183.4706
+                    [finish] => 1554656183.4947
+                    [duration] => 0.02410101890564
+                    [processing] => 0.0020599365234375
+                    [date_start] => 2019-04-07T19:56:23+03:00
+                    [date_finish] => 2019-04-07T19:56:23+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.invoice.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [DATE_INSERT] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [UF_DEAL_ID] => 100
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_INSERT
+                    [2] => STATUS_ID
+                    [3] => PRICE
+                    [4] => CURRENCY
+                )
+
+            [start] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-03-21T18:02:45+03:00
+                            [ID] => 66
+                            [PRICE] => 5000
+                            [STATUS_ID] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-03-28T11:15:09+03:00
+                            [ID] => 67
+                            [PRICE] => 2000
+                            [STATUS_ID] => P
+                        )
+
+                    [2] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-04-02T15:00:57+03:00
+                            [ID] => 69
+                            [PRICE] => 10000
+                            [STATUS_ID] => N
+                        )
+
+                )
+
+            [total] => 3
+            [time] => Array
+                (
+                    [start] => 1554656184.6551
+                    [finish] => 1554656184.7516
+                    [duration] => 0.096525907516479
+                    [processing] => 0.060209035873413
+                    [date_start] => 2019-04-07T19:56:24+03:00
+                    [date_finish] => 2019-04-07T19:56:24+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.item.list
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [DATE_START] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [GROUP_ID] => 
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [error] => ERROR_CORE
+            [error_description] => TASKS_ERROR_EXCEPTION_#256; 5caa2bb9e94a15.65389284: Param #1 (arFilter) for method ctaskitem::list() must not contain key "NAV_PARAMS".; 256/TE/WRONG_ARGUMENTS<br>
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 103
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 103
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 103
+                    [TITLE] => test vlada1 
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => DETAILS
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5000.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2413
+                    [CONTACT_ID] => 5871
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-07T03:00:00+03:00
+                    [CLOSEDATE] => 2019-04-07T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 10
+                    [CREATED_BY_ID] => 10
+                    [MODIFY_BY_ID] => 10
+                    [DATE_CREATE] => 2019-04-07T19:59:09+03:00
+                    [DATE_MODIFY] => 2019-04-07T20:01:36+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => test
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F4216C] => 170
+                    [UF_CRM_586CDE7F618DD] => test
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 184
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => Array
+                        (
+                            [0] => 190
+                        )
+
+                    [UF_CRM_586CDE7F93728] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7FB4A3A] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7FCA1AB] => Array
+                        (
+                        )
+
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1554656538.5053
+                    [finish] => 1554656538.5379
+                    [duration] => 0.032626867294312
+                    [processing] => 0.015574932098389
+                    [date_start] => 2019-04-07T20:02:18+03:00
+                    [date_finish] => 2019-04-07T20:02:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554656538.6784
+                    [finish] => 1554656538.7071
+                    [duration] => 0.028618097305298
+                    [processing] => 0.0060381889343262
+                    [date_start] => 2019-04-07T20:02:18+03:00
+                    [date_finish] => 2019-04-07T20:02:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 100
+    [VALUE] => 2123
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 100
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 100
+                    [TITLE] => Test primelab
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => NEW
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => UAH
+                    [OPPORTUNITY] => 10000.00
+                    [TAX_VALUE] => 0.00
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 5887
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-03-21T03:00:00+03:00
+                    [CLOSEDATE] => 2019-03-28T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 571
+                    [CREATED_BY_ID] => 571
+                    [MODIFY_BY_ID] => 573
+                    [DATE_CREATE] => 2019-03-21T19:02:34+03:00
+                    [DATE_MODIFY] => 2019-04-04T13:32:56+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F4216C] => 150
+                    [UF_CRM_586CDE7F618DD] => 1
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => Array
+                        (
+                            [0] => 192
+                        )
+
+                    [UF_CRM_586CDE7F93728] => Array
+                        (
+                            [0] => 204
+                        )
+
+                    [UF_CRM_586CDE7FB4A3A] => Array
+                        (
+                            [0] => 214
+                        )
+
+                    [UF_CRM_586CDE7FCA1AB] => Array
+                        (
+                            [0] => 232
+                        )
+
+                    [UF_CRM_586CDE7FD8045] => 10
+                    [UF_CRM_586CDE7FE21BE] => 1
+                    [UF_CRM_586CDE7FEDC96] => 1
+                    [UF_CRM_1549021620] => 50
+                    [UF_CRM_PROJECT] => 2123
+                    [UF_CRM_1554297194] => Array
+                        (
+                            [0] => 400 - music
+                            [1] => 500 - sth
+                        )
+
+                )
+
+            [time] => Array
+                (
+                    [start] => 1554656557.405
+                    [finish] => 1554656557.4382
+                    [duration] => 0.033216953277588
+                    [processing] => 0.012829065322876
+                    [date_start] => 2019-04-07T20:02:37+03:00
+                    [date_finish] => 2019-04-07T20:02:37+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2123
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2123
+                            [SITE_ID] => s1
+                            [NAME] => test project
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-03-27T16:11:00+03:00
+                            [DATE_UPDATE] => 2019-03-27T16:11:00+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 573
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 1
+                            [DATE_ACTIVITY] => 2019-03-27T16:14:42+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => Y
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656557.8526
+                    [finish] => 1554656557.8811
+                    [duration] => 0.028568983078003
+                    [processing] => 0.0041830539703369
+                    [date_start] => 2019-04-07T20:02:37+03:00
+                    [date_finish] => 2019-04-07T20:02:37+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [from] => 2019-04-07
+    [to] => 2019-04-07
+    [projects] => Array
+        (
+            [0] => 
+        )
+
+    [domain] => wow-how.bitrix24.ua
+    [auth_id] => 533caa5c00389e5e00091bec0000000a0000036f7d1d6aafc78af7568fc88f3e5e6e19
+    [lang] => ru
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1554656845.2146
+                    [finish] => 1554656845.2461
+                    [duration] => 0.031525135040283
+                    [processing] => 0.0079629421234131
+                    [date_start] => 2019-04-07T20:07:25+03:00
+                    [date_finish] => 2019-04-07T20:07:25+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-04-07 00:00:00
+                    [<=DATE_CREATE] => 2019-04-07 23:59:59
+                    [UF_CRM_PROJECT] => 
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1549021620
+                    [11] => UF_CRM_1554297194
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 103
+                            [DATE_CREATE] => 2019-04-07T19:59:09+03:00
+                            [TITLE] => test vlada1 
+                            [CONTACT_ID] => 5871
+                            [COMPANY_ID] => 2413
+                            [LEAD_ID] => 
+                            [STAGE_ID] => DETAILS
+                            [CREATED_BY_ID] => 10
+                            [ASSIGNED_BY_ID] => 10
+                            [OPPORTUNITY] => 5000.00
+                            [UF_CRM_1549021620] => 
+                            [UF_CRM_1554297194] => Array
+                                (
+                                    [0] => 300
+                                    [1] => 500
+                                    [2] => 600
+                                )
+
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656845.442
+                    [finish] => 1554656845.4907
+                    [duration] => 0.048729181289673
+                    [processing] => 0.01906681060791
+                    [date_start] => 2019-04-07T20:07:25+03:00
+                    [date_finish] => 2019-04-07T20:07:25+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.contact.get
+    [PARAMS] => Array
+        (
+            [id] => 5871
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 5871
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => 0
+                    [NAME] => 1/02/2019
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => TEST
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => SHARE
+                    [SOURCE_ID] => SELF
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 2413
+                    [BIRTHDATE] => 
+                    [EXPORT] => Y
+                    [HAS_PHONE] => N
+                    [HAS_EMAIL] => N
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2019-02-01T11:17:57+03:00
+                    [DATE_MODIFY] => 2019-02-01T11:30:45+03:00
+                    [ASSIGNED_BY_ID] => 10
+                    [CREATED_BY_ID] => 10
+                    [MODIFY_BY_ID] => 10
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_COUNTRY_CODE] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1554656846.6664
+                    [finish] => 1554656846.7103
+                    [duration] => 0.043949127197266
+                    [processing] => 0.014719009399414
+                    [date_start] => 2019-04-07T20:07:26+03:00
+                    [date_finish] => 2019-04-07T20:07:26+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => DEAL_STAGE
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 121
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => ON_HOLD
+                            [NAME] => Обробка припинена
+                            [NAME_INIT] => 
+                            [SORT] => 60
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => apology
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 113
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => DETAILS
+                            [NAME] => обсуждение
+                            [NAME_INIT] => 
+                            [SORT] => 10
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 111
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEW
+                            [NAME] => Оценка
+                            [NAME_INIT] => В опрацюванні
+                            [SORT] => 20
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 117
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => NEGOTIATION
+                            [NAME] => Переговоры
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => process
+                                    [COLOR] => #ace9fb
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 123
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => LOSE
+                            [NAME] => Угода не укладена
+                            [NAME_INIT] => Угода не укладена
+                            [SORT] => 50
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => failure
+                                    [COLOR] => #FFBEBD
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 119
+                            [ENTITY_ID] => DEAL_STAGE
+                            [STATUS_ID] => WON
+                            [NAME] => Угода укладена
+                            [NAME_INIT] => Угода укладена
+                            [SORT] => 40
+                            [SYSTEM] => Y
+                            [EXTRA] => Array
+                                (
+                                    [SEMANTICS] => success
+                                    [COLOR] => #DBF199
+                                )
+
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554656846.891
+                    [finish] => 1554656846.9141
+                    [duration] => 0.023100852966309
+                    [processing] => 0.0027508735656738
+                    [date_start] => 2019-04-07T20:07:26+03:00
+                    [date_finish] => 2019-04-07T20:07:26+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 10
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 10
+                            [ACTIVE] => 1
+                            [EMAIL] => vladyslava.volobuieva@wow-how.com
+                            [NAME] => Vladyslava
+                            [LAST_NAME] => Volobuieva
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 1989-08-15T03:00:00+04:00
+                            [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/9dd/9dd5ec39f9b22615f482d69778730b8e/IMG_20151013_160350351.jpg
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => +380675394001
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 140
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656848.2204
+                    [finish] => 1554656848.2557
+                    [duration] => 0.035298109054565
+                    [processing] => 0.015681982040405
+                    [date_start] => 2019-04-07T20:07:28+03:00
+                    [date_finish] => 2019-04-07T20:07:28+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса user.get
+    [PARAMS] => Array
+        (
+            [ID] => 10
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 10
+                            [ACTIVE] => 1
+                            [EMAIL] => vladyslava.volobuieva@wow-how.com
+                            [NAME] => Vladyslava
+                            [LAST_NAME] => Volobuieva
+                            [SECOND_NAME] => 
+                            [PERSONAL_GENDER] => 
+                            [PERSONAL_PROFESSION] => 
+                            [PERSONAL_WWW] => 
+                            [PERSONAL_BIRTHDAY] => 1989-08-15T03:00:00+04:00
+                            [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/9dd/9dd5ec39f9b22615f482d69778730b8e/IMG_20151013_160350351.jpg
+                            [PERSONAL_ICQ] => 
+                            [PERSONAL_PHONE] => 
+                            [PERSONAL_FAX] => 
+                            [PERSONAL_MOBILE] => 
+                            [PERSONAL_PAGER] => 
+                            [PERSONAL_STREET] => 
+                            [PERSONAL_CITY] => 
+                            [PERSONAL_STATE] => 
+                            [PERSONAL_ZIP] => 
+                            [PERSONAL_COUNTRY] => 
+                            [WORK_COMPANY] => 
+                            [WORK_POSITION] => 
+                            [WORK_PHONE] => +380675394001
+                            [UF_DEPARTMENT] => Array
+                                (
+                                    [0] => 140
+                                )
+
+                            [UF_INTERESTS] => 
+                            [UF_SKILLS] => 
+                            [UF_WEB_SITES] => 
+                            [UF_XING] => 
+                            [UF_LINKEDIN] => 
+                            [UF_FACEBOOK] => 
+                            [UF_TWITTER] => 
+                            [UF_SKYPE] => 
+                            [UF_DISTRICT] => 
+                            [UF_PHONE_INNER] => 
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656848.495
+                    [finish] => 1554656848.5261
+                    [duration] => 0.031167984008789
+                    [processing] => 0.013686895370483
+                    [date_start] => 2019-04-07T20:07:28+03:00
+                    [date_finish] => 2019-04-07T20:07:28+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.status.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [ENTITY_ID] => INVOICE_STATUS
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 183
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => S
+                            [NAME] => Відправлено клієнту
+                            [NAME_INIT] => 
+                            [SORT] => 20
+                            [SYSTEM] => N
+                        )
+
+                    [1] => Array
+                        (
+                            [ID] => 177
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => D
+                            [NAME] => Відхилено
+                            [NAME_INIT] => Відхилено
+                            [SORT] => 70
+                            [SYSTEM] => Y
+                        )
+
+                    [2] => Array
+                        (
+                            [ID] => 181
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => P
+                            [NAME] => Оплачено
+                            [NAME_INIT] => Оплачено
+                            [SORT] => 60
+                            [SYSTEM] => Y
+                        )
+
+                    [3] => Array
+                        (
+                            [ID] => 185
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => U
+                            [NAME] => Оплачено частично
+                            [NAME_INIT] => 
+                            [SORT] => 40
+                            [SYSTEM] => N
+                        )
+
+                    [4] => Array
+                        (
+                            [ID] => 175
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => A
+                            [NAME] => Підтверджено
+                            [NAME_INIT] => 
+                            [SORT] => 30
+                            [SYSTEM] => N
+                        )
+
+                    [5] => Array
+                        (
+                            [ID] => 179
+                            [ENTITY_ID] => INVOICE_STATUS
+                            [STATUS_ID] => N
+                            [NAME] => Чернетка
+                            [NAME_INIT] => Чернетка
+                            [SORT] => 10
+                            [SYSTEM] => Y
+                        )
+
+                )
+
+            [total] => 6
+            [time] => Array
+                (
+                    [start] => 1554656849.7426
+                    [finish] => 1554656849.7634
+                    [duration] => 0.020765066146851
+                    [processing] => 0.0020461082458496
+                    [date_start] => 2019-04-07T20:07:29+03:00
+                    [date_finish] => 2019-04-07T20:07:29+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.invoice.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [DATE_INSERT] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [UF_DEAL_ID] => 103
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_INSERT
+                    [2] => STATUS_ID
+                    [3] => PRICE
+                    [4] => CURRENCY
+                )
+
+            [start] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [CURRENCY] => UAH
+                            [DATE_INSERT] => 2019-04-07T20:01:00+03:00
+                            [ID] => 71
+                            [PRICE] => 2000
+                            [STATUS_ID] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1554656850.9293
+                    [finish] => 1554656850.973
+                    [duration] => 0.043689012527466
+                    [processing] => 0.024545907974243
+                    [date_start] => 2019-04-07T20:07:30+03:00
+                    [date_finish] => 2019-04-07T20:07:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса task.item.list
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [DATE_START] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [GROUP_ID] => 
+                )
+
+            [PARAMS] => Array
+                (
+                    [NAV_PARAMS] => Array
+                        (
+                            [nPageSize] => 50
+                            [iNumPage] => 1
+                        )
+
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [error] => ERROR_CORE
+            [error_description] => TASKS_ERROR_EXCEPTION_#256; 5caa2e54348fd2.77517342: Param #1 (arFilter) for method ctaskitem::list() must not contain key "NAV_PARAMS".; 256/TE/WRONG_ARGUMENTS<br>
+        )
+
+)
+
+_________________________________
+

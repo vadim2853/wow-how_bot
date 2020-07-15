@@ -1,0 +1,4206 @@
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 181
+    [VALUE] => 2211
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 181
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 181
+                    [TITLE] => Keyhole test
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => NEW
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => UAH
+                    [OPPORTUNITY] => 0.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 3092
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-13T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 571
+                    [CREATED_BY_ID] => 571
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T13:16:03+03:00
+                    [DATE_MODIFY] => 2019-05-06T13:16:50+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => STORE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 2211
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 661
+                    [UF_CRM_1554889136] => 100
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557215010.72
+                    [finish] => 1557215010.7532
+                    [duration] => 0.03324294090271
+                    [processing] => 0.012691020965576
+                    [date_start] => 2019-05-07T10:43:30+03:00
+                    [date_finish] => 2019-05-07T10:43:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2211
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2211
+                            [SITE_ID] => s1
+                            [NAME] => Keyhole - 18 illustrations for website
+                            [DESCRIPTION] => Дэдлайн: 31.05.2019
+Ссылка на ДС:  Z:\_WOW-HOW Studio\_ART_PRJ\_Keyhole - 18 illustrations for website
+                            [DATE_CREATE] => 2019-04-22T18:09:46+03:00
+                            [DATE_UPDATE] => 2019-04-22T18:09:46+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 579
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 12
+                            [DATE_ACTIVITY] => 2019-05-06T19:33:30+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557215010.9283
+                    [finish] => 1557215010.9551
+                    [duration] => 0.026730060577393
+                    [processing] => 0.0051310062408447
+                    [date_start] => 2019-05-07T10:43:30+03:00
+                    [date_finish] => 2019-05-07T10:43:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 181
+    [VALUE] => 2211
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 181
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 181
+                    [TITLE] => Keyhole test
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => NEW
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => UAH
+                    [OPPORTUNITY] => 0.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 3092
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-13T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 571
+                    [CREATED_BY_ID] => 571
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T13:16:03+03:00
+                    [DATE_MODIFY] => 2019-05-06T13:16:50+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => STORE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 2211
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 661
+                    [UF_CRM_1554889136] => 100
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557215035.3152
+                    [finish] => 1557215035.3501
+                    [duration] => 0.034986019134521
+                    [processing] => 0.010459899902344
+                    [date_start] => 2019-05-07T10:43:55+03:00
+                    [date_finish] => 2019-05-07T10:43:55+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2211
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2211
+                            [SITE_ID] => s1
+                            [NAME] => Keyhole - 18 illustrations for website
+                            [DESCRIPTION] => Дэдлайн: 31.05.2019
+Ссылка на ДС:  Z:\_WOW-HOW Studio\_ART_PRJ\_Keyhole - 18 illustrations for website
+                            [DATE_CREATE] => 2019-04-22T18:09:46+03:00
+                            [DATE_UPDATE] => 2019-04-22T18:09:46+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 579
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 12
+                            [DATE_ACTIVITY] => 2019-05-06T19:33:30+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557215035.5015
+                    [finish] => 1557215035.5324
+                    [duration] => 0.030871868133545
+                    [processing] => 0.0030689239501953
+                    [date_start] => 2019-05-07T10:43:55+03:00
+                    [date_finish] => 2019-05-07T10:43:55+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 137
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 137
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 137
+                    [TITLE] => 3D logo animation for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2369.20
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:28:26+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:28:31+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.2
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 94
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221143.1371
+                    [finish] => 1557221143.1809
+                    [duration] => 0.043842792510986
+                    [processing] => 0.015713930130005
+                    [date_start] => 2019-05-07T12:25:43+03:00
+                    [date_finish] => 2019-05-07T12:25:43+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557221143.3306
+                    [finish] => 1557221143.361
+                    [duration] => 0.03046703338623
+                    [processing] => 0.0034101009368896
+                    [date_start] => 2019-05-07T12:25:43+03:00
+                    [date_finish] => 2019-05-07T12:25:43+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 137
+    [VALUE] => 2181
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 137
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 137
+                    [TITLE] => 3D logo animation for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2369.20
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:28:26+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:26:02+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.2
+                    [UF_CRM_PROJECT] => 2181
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 94
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221163.8828
+                    [finish] => 1557221163.9157
+                    [duration] => 0.032873868942261
+                    [processing] => 0.011499881744385
+                    [date_start] => 2019-05-07T12:26:03+03:00
+                    [date_finish] => 2019-05-07T12:26:03+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2181
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2181
+                            [SITE_ID] => s1
+                            [NAME] => 3D logo animation for Explainly 
+                            [DESCRIPTION] => Дедлайн - 10 мая 
+Ссылка на ДС:
+Z:\_WOW-HOW Studio\_3D_RPJ\_3d logo animation for Explainly
+                            [DATE_CREATE] => 2019-04-15T14:58:24+03:00
+                            [DATE_UPDATE] => 2019-04-22T11:53:45+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T10:21:19+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/d75/d75f036fb531bc5d4a6a68ef6b03a07b/explainly+logo.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557221164.1444
+                    [finish] => 1557221164.1688
+                    [duration] => 0.0244140625
+                    [processing] => 0.004155158996582
+                    [date_start] => 2019-05-07T12:26:04+03:00
+                    [date_finish] => 2019-05-07T12:26:04+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 137
+    [VALUE] => 2181
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 137
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 137
+                    [TITLE] => 3D logo animation for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2369.20
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:28:26+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:26:02+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.2
+                    [UF_CRM_PROJECT] => 2181
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 94
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221858.579
+                    [finish] => 1557221858.6123
+                    [duration] => 0.033259153366089
+                    [processing] => 0.012951135635376
+                    [date_start] => 2019-05-07T12:37:38+03:00
+                    [date_finish] => 2019-05-07T12:37:38+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2181
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2181
+                            [SITE_ID] => s1
+                            [NAME] => 3D logo animation for Explainly 
+                            [DESCRIPTION] => Дедлайн - 10 мая 
+Ссылка на ДС:
+Z:\_WOW-HOW Studio\_3D_RPJ\_3d logo animation for Explainly
+                            [DATE_CREATE] => 2019-04-15T14:58:24+03:00
+                            [DATE_UPDATE] => 2019-04-22T11:53:45+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T10:21:19+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/d75/d75f036fb531bc5d4a6a68ef6b03a07b/explainly+logo.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557221858.7517
+                    [finish] => 1557221858.7773
+                    [duration] => 0.025521993637085
+                    [processing] => 0.0037229061126709
+                    [date_start] => 2019-05-07T12:37:38+03:00
+                    [date_finish] => 2019-05-07T12:37:38+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 137
+    [VALUE] => 2181
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 137
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 137
+                    [TITLE] => 3D logo animation for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2369.20
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:28:26+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:26:02+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.2
+                    [UF_CRM_PROJECT] => 2181
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 94
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221879.7304
+                    [finish] => 1557221879.7685
+                    [duration] => 0.038111925125122
+                    [processing] => 0.017010927200317
+                    [date_start] => 2019-05-07T12:37:59+03:00
+                    [date_finish] => 2019-05-07T12:37:59+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2181
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2181
+                            [SITE_ID] => s1
+                            [NAME] => 3D logo animation for Explainly 
+                            [DESCRIPTION] => Дедлайн - 10 мая 
+Ссылка на ДС:
+Z:\_WOW-HOW Studio\_3D_RPJ\_3d logo animation for Explainly
+                            [DATE_CREATE] => 2019-04-15T14:58:24+03:00
+                            [DATE_UPDATE] => 2019-04-22T11:53:45+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T10:21:19+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/d75/d75f036fb531bc5d4a6a68ef6b03a07b/explainly+logo.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557221879.9406
+                    [finish] => 1557221879.968
+                    [duration] => 0.027408123016357
+                    [processing] => 0.0040791034698486
+                    [date_start] => 2019-05-07T12:37:59+03:00
+                    [date_finish] => 2019-05-07T12:37:59+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 137
+    [VALUE] => 2181
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 137
+    [VALUE] => 2181
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 137
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 137
+                    [TITLE] => 3D logo animation for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2369.20
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:28:26+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:26:02+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.2
+                    [UF_CRM_PROJECT] => 2181
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 94
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221896.3279
+                    [finish] => 1557221896.3585
+                    [duration] => 0.03056001663208
+                    [processing] => 0.011008024215698
+                    [date_start] => 2019-05-07T12:38:16+03:00
+                    [date_finish] => 2019-05-07T12:38:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 137
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 137
+                    [TITLE] => 3D logo animation for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2369.20
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:28:26+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:26:02+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.2
+                    [UF_CRM_PROJECT] => 2181
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 94
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221896.3509
+                    [finish] => 1557221896.3861
+                    [duration] => 0.035215854644775
+                    [processing] => 0.012197971343994
+                    [date_start] => 2019-05-07T12:38:16+03:00
+                    [date_finish] => 2019-05-07T12:38:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2181
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2181
+                            [SITE_ID] => s1
+                            [NAME] => 3D logo animation for Explainly 
+                            [DESCRIPTION] => Дедлайн - 10 мая 
+Ссылка на ДС:
+Z:\_WOW-HOW Studio\_3D_RPJ\_3d logo animation for Explainly
+                            [DATE_CREATE] => 2019-04-15T14:58:24+03:00
+                            [DATE_UPDATE] => 2019-04-22T11:53:45+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T10:21:19+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/d75/d75f036fb531bc5d4a6a68ef6b03a07b/explainly+logo.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557221896.5341
+                    [finish] => 1557221896.5561
+                    [duration] => 0.021943807601929
+                    [processing] => 0.0037260055541992
+                    [date_start] => 2019-05-07T12:38:16+03:00
+                    [date_finish] => 2019-05-07T12:38:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2181
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2181
+                            [SITE_ID] => s1
+                            [NAME] => 3D logo animation for Explainly 
+                            [DESCRIPTION] => Дедлайн - 10 мая 
+Ссылка на ДС:
+Z:\_WOW-HOW Studio\_3D_RPJ\_3d logo animation for Explainly
+                            [DATE_CREATE] => 2019-04-15T14:58:24+03:00
+                            [DATE_UPDATE] => 2019-04-22T11:53:45+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T10:21:19+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/d75/d75f036fb531bc5d4a6a68ef6b03a07b/explainly+logo.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557221896.5437
+                    [finish] => 1557221896.5787
+                    [duration] => 0.034978151321411
+                    [processing] => 0.0068988800048828
+                    [date_start] => 2019-05-07T12:38:16+03:00
+                    [date_finish] => 2019-05-07T12:38:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 131
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 131
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 131
+                    [TITLE] => Keyhole - 18 illustrations for website
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4160.80
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2433
+                    [CONTACT_ID] => 5941
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:22:17+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:23:29+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 186
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.91
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 661
+                    [UF_CRM_1554889136] => 167
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557221966.2484
+                    [finish] => 1557221966.2803
+                    [duration] => 0.031925916671753
+                    [processing] => 0.010283946990967
+                    [date_start] => 2019-05-07T12:39:26+03:00
+                    [date_finish] => 2019-05-07T12:39:26+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557221966.4358
+                    [finish] => 1557221966.4609
+                    [duration] => 0.025078058242798
+                    [processing] => 0.0028789043426514
+                    [date_start] => 2019-05-07T12:39:26+03:00
+                    [date_finish] => 2019-05-07T12:39:26+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 135
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 135
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 135
+                    [TITLE] => 2d promo video for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2970.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:26:19+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:26:32+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 23.02
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 129
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222389.0441
+                    [finish] => 1557222389.0788
+                    [duration] => 0.034744024276733
+                    [processing] => 0.014907121658325
+                    [date_start] => 2019-05-07T12:46:29+03:00
+                    [date_finish] => 2019-05-07T12:46:29+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222389.2279
+                    [finish] => 1557222389.258
+                    [duration] => 0.030086994171143
+                    [processing] => 0.0036249160766602
+                    [date_start] => 2019-05-07T12:46:29+03:00
+                    [date_finish] => 2019-05-07T12:46:29+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 135
+    [VALUE] => 2207
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 135
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 135
+                    [TITLE] => 2d promo video for Explainly
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2970.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:26:19+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:46:51+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 23.02
+                    [UF_CRM_PROJECT] => 2207
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 129
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222414.2603
+                    [finish] => 1557222414.2972
+                    [duration] => 0.036857128143311
+                    [processing] => 0.012905836105347
+                    [date_start] => 2019-05-07T12:46:54+03:00
+                    [date_finish] => 2019-05-07T12:46:54+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2207
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2207
+                            [SITE_ID] => s1
+                            [NAME] => 2d promo video for Explainly
+                            [DESCRIPTION] => Ссылка на ДС : Y:\_WOW-HOW Studio\_VIDEO_PRJ\_2d promo video for Explainly
+                            [DATE_CREATE] => 2019-04-22T10:27:00+03:00
+                            [DATE_UPDATE] => 2019-04-22T11:52:40+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 6
+                            [DATE_ACTIVITY] => 2019-05-07T11:12:52+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/283/283b8175c9dae823aad2eced04ad5cbc/explainly+logo.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222414.4519
+                    [finish] => 1557222414.4776
+                    [duration] => 0.025700092315674
+                    [processing] => 0.0048849582672119
+                    [date_start] => 2019-05-07T12:46:54+03:00
+                    [date_finish] => 2019-05-07T12:46:54+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 189
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 189
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 189
+                    [TITLE] => ForePaaS product video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5575.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2473
+                    [CONTACT_ID] => 5977
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2018-12-21T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T13:25:30+03:00
+                    [DATE_MODIFY] => 2019-05-06T13:25:36+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 22.3
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 250
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222498.4327
+                    [finish] => 1557222498.4706
+                    [duration] => 0.037937879562378
+                    [processing] => 0.013840913772583
+                    [date_start] => 2019-05-07T12:48:18+03:00
+                    [date_finish] => 2019-05-07T12:48:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222499.8059
+                    [finish] => 1557222499.8521
+                    [duration] => 0.046165943145752
+                    [processing] => 0.0047810077667236
+                    [date_start] => 2019-05-07T12:48:19+03:00
+                    [date_finish] => 2019-05-07T12:48:19+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 189
+    [VALUE] => 1743
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 189
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 189
+                    [TITLE] => ForePaaS product video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5575.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2473
+                    [CONTACT_ID] => 5977
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2018-12-21T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T13:25:30+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:48:30+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 22.3
+                    [UF_CRM_PROJECT] => 1743
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 250
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222511.0995
+                    [finish] => 1557222511.141
+                    [duration] => 0.041495084762573
+                    [processing] => 0.018566131591797
+                    [date_start] => 2019-05-07T12:48:31+03:00
+                    [date_finish] => 2019-05-07T12:48:31+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 1743
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 1743
+                            [SITE_ID] => s1
+                            [NAME] => ForePaaS product video
+                            [DESCRIPTION] => Z:\_WOW-HOW Studio\_VIDEO_PRJ\_ForePaaS product video
+Заходит очень интересный проект от ForePaaS. Проект очень важный, т.к. это первый проект с LeadForensics, да и компания довольно большая, поэтому от них могут быть еще проекты в будущем.
+                            [DATE_CREATE] => 2018-12-21T13:20:12+03:00
+                            [DATE_UPDATE] => 2019-01-29T14:14:56+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 519
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 11
+                            [DATE_ACTIVITY] => 2019-04-24T00:14:03+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/cda/cdacd55e3dcf6bc972acb75763bc86e0/Screenshot_2.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222511.2858
+                    [finish] => 1557222511.3129
+                    [duration] => 0.027164936065674
+                    [processing] => 0.0056829452514648
+                    [date_start] => 2019-05-07T12:48:31+03:00
+                    [date_finish] => 2019-05-07T12:48:31+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 149
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 149
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 149
+                    [TITLE] => Explainer video for Bentsen
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1708.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2447
+                    [CONTACT_ID] => 5955
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-04T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:34:47+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:34:57+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 28.47
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 60
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222520.2852
+                    [finish] => 1557222520.3247
+                    [duration] => 0.039461851119995
+                    [processing] => 0.014219999313354
+                    [date_start] => 2019-05-07T12:48:40+03:00
+                    [date_finish] => 2019-05-07T12:48:40+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222520.4645
+                    [finish] => 1557222520.4888
+                    [duration] => 0.024346828460693
+                    [processing] => 0.0032570362091064
+                    [date_start] => 2019-05-07T12:48:40+03:00
+                    [date_finish] => 2019-05-07T12:48:40+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 149
+    [VALUE] => 2151
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 149
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 149
+                    [TITLE] => Explainer video for Bentsen
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1708.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2447
+                    [CONTACT_ID] => 5955
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-04T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:34:47+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:48:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 28.47
+                    [UF_CRM_PROJECT] => 2151
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 60
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222527.1895
+                    [finish] => 1557222527.2291
+                    [duration] => 0.039634943008423
+                    [processing] => 0.015733957290649
+                    [date_start] => 2019-05-07T12:48:47+03:00
+                    [date_finish] => 2019-05-07T12:48:47+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2151
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2151
+                            [SITE_ID] => s1
+                            [NAME] => Explainer video for Bentsen
+                            [DESCRIPTION] => Z:\_WOW-HOW Studio\_VIDEO_PRJ\_Explainer video for Bentsen
+
+26.04 - внутренний дедлайн
+                            [DATE_CREATE] => 2019-04-04T18:55:21+03:00
+                            [DATE_UPDATE] => 2019-04-22T13:29:36+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 549
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 8
+                            [DATE_ACTIVITY] => 2019-05-02T15:46:21+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/089/0894b7ee581f2c46557e23fe83c2c812/santehnik-voltservice-1024x680.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222527.378
+                    [finish] => 1557222527.4045
+                    [duration] => 0.026459932327271
+                    [processing] => 0.0037910938262939
+                    [date_start] => 2019-05-07T12:48:47+03:00
+                    [date_finish] => 2019-05-07T12:48:47+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 143
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 143
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 143
+                    [TITLE] => 3D video for KabelDirekt
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5130.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2441
+                    [CONTACT_ID] => 5947
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-04T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:31:43+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:31:52+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => STORE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 34.2
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 150
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222538.0422
+                    [finish] => 1557222538.0817
+                    [duration] => 0.039520978927612
+                    [processing] => 0.014324903488159
+                    [date_start] => 2019-05-07T12:48:58+03:00
+                    [date_finish] => 2019-05-07T12:48:58+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222538.6268
+                    [finish] => 1557222538.6531
+                    [duration] => 0.026360988616943
+                    [processing] => 0.0035419464111328
+                    [date_start] => 2019-05-07T12:48:58+03:00
+                    [date_finish] => 2019-05-07T12:48:58+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 143
+    [VALUE] => 2169
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 143
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 143
+                    [TITLE] => 3D video for KabelDirekt
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5130.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2441
+                    [CONTACT_ID] => 5947
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-04T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:31:43+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:49:09+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => STORE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 34.2
+                    [UF_CRM_PROJECT] => 2169
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 150
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222550.4627
+                    [finish] => 1557222550.5051
+                    [duration] => 0.042433023452759
+                    [processing] => 0.015769004821777
+                    [date_start] => 2019-05-07T12:49:10+03:00
+                    [date_finish] => 2019-05-07T12:49:10+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2169
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2169
+                            [SITE_ID] => s1
+                            [NAME] => 3D video for KabelDirekt
+                            [DESCRIPTION] => Z:\_WOW-HOW Studio\_3D_RPJ\_3D video for KabelDirekt
+
+Дедлайн: 17.05
+                            [DATE_CREATE] => 2019-04-11T11:14:49+03:00
+                            [DATE_UPDATE] => 2019-04-22T13:22:12+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 549
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 11
+                            [DATE_ACTIVITY] => 2019-05-07T12:01:36+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/28b/28bcd6b04e08e7e1c53a282ebb6e17fc/cabel.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222550.6408
+                    [finish] => 1557222550.666
+                    [duration] => 0.025270938873291
+                    [processing] => 0.0036330223083496
+                    [date_start] => 2019-05-07T12:49:10+03:00
+                    [date_finish] => 2019-05-07T12:49:10+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 163
+    [VALUE] => 1991
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 163
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 163
+                    [TITLE] => ngCompliance whiteboard video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1792.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2457
+                    [CONTACT_ID] => 5965
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-02-18T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T12:12:52+03:00
+                    [DATE_MODIFY] => 2019-05-06T12:19:53+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.89
+                    [UF_CRM_PROJECT] => 1991
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 659
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 72
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222556.495
+                    [finish] => 1557222556.5375
+                    [duration] => 0.042464017868042
+                    [processing] => 0.018570184707642
+                    [date_start] => 2019-05-07T12:49:16+03:00
+                    [date_finish] => 2019-05-07T12:49:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 1991
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 1991
+                            [SITE_ID] => s1
+                            [NAME] => ngCompliance whiteboard video
+                            [DESCRIPTION] => Создание whiteboard video на тему risk management. 
+Длительность: ориент. 2 мин. 
+Ссылка на ДС: Z:\_WOW-HOW Studio\_VIDEO_PRJ\_ngCompliance whiteboard video
+                            [DATE_CREATE] => 2019-02-21T17:06:11+03:00
+                            [DATE_UPDATE] => 2019-04-09T21:06:53+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 515
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T11:35:59+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/5d9/5d934f1adb9f2dc5b47be53b3b203ec0/_+_+2019-02-21+_+16.04.27.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222556.6945
+                    [finish] => 1557222556.7231
+                    [duration] => 0.02857494354248
+                    [processing] => 0.0045359134674072
+                    [date_start] => 2019-05-07T12:49:16+03:00
+                    [date_finish] => 2019-05-07T12:49:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 163
+    [VALUE] => 1991
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 163
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 163
+                    [TITLE] => ngCompliance whiteboard video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1792.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2457
+                    [CONTACT_ID] => 5965
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-02-18T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T12:12:52+03:00
+                    [DATE_MODIFY] => 2019-05-06T12:19:53+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.89
+                    [UF_CRM_PROJECT] => 1991
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 659
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 72
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222558.7832
+                    [finish] => 1557222558.8191
+                    [duration] => 0.035984992980957
+                    [processing] => 0.014152050018311
+                    [date_start] => 2019-05-07T12:49:18+03:00
+                    [date_finish] => 2019-05-07T12:49:18+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 1991
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 1991
+                            [SITE_ID] => s1
+                            [NAME] => ngCompliance whiteboard video
+                            [DESCRIPTION] => Создание whiteboard video на тему risk management. 
+Длительность: ориент. 2 мин. 
+Ссылка на ДС: Z:\_WOW-HOW Studio\_VIDEO_PRJ\_ngCompliance whiteboard video
+                            [DATE_CREATE] => 2019-02-21T17:06:11+03:00
+                            [DATE_UPDATE] => 2019-04-09T21:06:53+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 515
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T11:35:59+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/5d9/5d934f1adb9f2dc5b47be53b3b203ec0/_+_+2019-02-21+_+16.04.27.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222558.9803
+                    [finish] => 1557222559.0047
+                    [duration] => 0.024396181106567
+                    [processing] => 0.0038800239562988
+                    [date_start] => 2019-05-07T12:49:18+03:00
+                    [date_finish] => 2019-05-07T12:49:19+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 163
+    [VALUE] => 1991
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 163
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 163
+                    [TITLE] => ngCompliance whiteboard video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1792.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2457
+                    [CONTACT_ID] => 5965
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-02-18T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T12:12:52+03:00
+                    [DATE_MODIFY] => 2019-05-06T12:19:53+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.89
+                    [UF_CRM_PROJECT] => 1991
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 659
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 72
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222573.8428
+                    [finish] => 1557222573.8761
+                    [duration] => 0.033287048339844
+                    [processing] => 0.013513088226318
+                    [date_start] => 2019-05-07T12:49:33+03:00
+                    [date_finish] => 2019-05-07T12:49:33+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 1991
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 1991
+                            [SITE_ID] => s1
+                            [NAME] => ngCompliance whiteboard video
+                            [DESCRIPTION] => Создание whiteboard video на тему risk management. 
+Длительность: ориент. 2 мин. 
+Ссылка на ДС: Z:\_WOW-HOW Studio\_VIDEO_PRJ\_ngCompliance whiteboard video
+                            [DATE_CREATE] => 2019-02-21T17:06:11+03:00
+                            [DATE_UPDATE] => 2019-04-09T21:06:53+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 515
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 9
+                            [DATE_ACTIVITY] => 2019-05-07T11:35:59+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/5d9/5d934f1adb9f2dc5b47be53b3b203ec0/_+_+2019-02-21+_+16.04.27.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222581.8749
+                    [finish] => 1557222581.9032
+                    [duration] => 0.028335094451904
+                    [processing] => 0.0038599967956543
+                    [date_start] => 2019-05-07T12:49:41+03:00
+                    [date_finish] => 2019-05-07T12:49:41+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 147
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 147
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 147
+                    [TITLE] => 3 videos for Facebook ads
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4000.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2445
+                    [CONTACT_ID] => 5953
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-02-18T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:33:10+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:33:24+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 22.47
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 178
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222593.3391
+                    [finish] => 1557222593.3741
+                    [duration] => 0.034925937652588
+                    [processing] => 0.015702962875366
+                    [date_start] => 2019-05-07T12:49:53+03:00
+                    [date_finish] => 2019-05-07T12:49:53+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222593.5181
+                    [finish] => 1557222593.543
+                    [duration] => 0.024867057800293
+                    [processing] => 0.0032200813293457
+                    [date_start] => 2019-05-07T12:49:53+03:00
+                    [date_finish] => 2019-05-07T12:49:53+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 147
+    [VALUE] => 1969
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 147
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 147
+                    [TITLE] => 3 videos for Facebook ads
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4000.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2445
+                    [CONTACT_ID] => 5953
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-02-18T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:33:10+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:50:29+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 22.47
+                    [UF_CRM_PROJECT] => 1969
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 178
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222630.0003
+                    [finish] => 1557222630.0363
+                    [duration] => 0.03601598739624
+                    [processing] => 0.017355918884277
+                    [date_start] => 2019-05-07T12:50:30+03:00
+                    [date_finish] => 2019-05-07T12:50:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 1969
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 1969
+                            [SITE_ID] => s1
+                            [NAME] => 2D real estate Animations for Facebook 
+                            [DESCRIPTION] => ДС: Z:\_WOW-HOW Studio\_VIDEO_PRJ\_2D real estate Animations for Facebook
+Оценка: https://wow-how.bitrix24.ua/workgroups/group/24/tasks/task/view/25327/
+                            [DATE_CREATE] => 2019-02-19T15:35:32+03:00
+                            [DATE_UPDATE] => 2019-02-19T15:51:49+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 519
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 14
+                            [DATE_ACTIVITY] => 2019-05-03T18:17:30+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222630.1747
+                    [finish] => 1557222630.2002
+                    [duration] => 0.025419950485229
+                    [processing] => 0.0039610862731934
+                    [date_start] => 2019-05-07T12:50:30+03:00
+                    [date_finish] => 2019-05-07T12:50:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 133
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 133
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 133
+                    [TITLE] => 3D Product Animation: Mandoline
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2700.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2435
+                    [CONTACT_ID] => 5943
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-02T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:25:12+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:28:49+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.55
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 110
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222664.3356
+                    [finish] => 1557222664.3738
+                    [duration] => 0.038210153579712
+                    [processing] => 0.014982938766479
+                    [date_start] => 2019-05-07T12:51:04+03:00
+                    [date_finish] => 2019-05-07T12:51:04+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222664.51
+                    [finish] => 1557222664.533
+                    [duration] => 0.02295994758606
+                    [processing] => 0.0031349658966064
+                    [date_start] => 2019-05-07T12:51:04+03:00
+                    [date_finish] => 2019-05-07T12:51:04+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 133
+    [VALUE] => 2225
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 133
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 133
+                    [TITLE] => 3D Product Animation: Mandoline
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2700.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2435
+                    [CONTACT_ID] => 5943
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-02T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 399
+                    [CREATED_BY_ID] => 399
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:25:12+03:00
+                    [DATE_MODIFY] => 2019-05-07T12:51:11+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.55
+                    [UF_CRM_PROJECT] => 2225
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 110
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222672.2471
+                    [finish] => 1557222672.2817
+                    [duration] => 0.034602880477905
+                    [processing] => 0.014149188995361
+                    [date_start] => 2019-05-07T12:51:12+03:00
+                    [date_finish] => 2019-05-07T12:51:12+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2225
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2225
+                            [SITE_ID] => s1
+                            [NAME] => 3D Product Animation Mandoline
+                            [DESCRIPTION] => Дедлайн-конец мая 
+Ссылка на ДС : Y:\_WOW-HOW Studio\_3D_RPJ\3D Product Animation Mandoline
+                            [DATE_CREATE] => 2019-04-25T19:12:16+03:00
+                            [DATE_UPDATE] => 2019-04-25T19:12:16+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 563
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 6
+                            [DATE_ACTIVITY] => 2019-05-03T12:40:00+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1557222672.4268
+                    [finish] => 1557222672.4561
+                    [duration] => 0.029315948486328
+                    [processing] => 0.003486156463623
+                    [date_start] => 2019-05-07T12:51:12+03:00
+                    [date_finish] => 2019-05-07T12:51:12+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 127
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 127
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 127
+                    [TITLE] => Corporate video for S4M
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 5000.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2429
+                    [CONTACT_ID] => 5939
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 46
+                    [CREATED_BY_ID] => 46
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:17:54+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:22:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 659
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 200
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222764.406
+                    [finish] => 1557222764.4341
+                    [duration] => 0.028098821640015
+                    [processing] => 0.010612010955811
+                    [date_start] => 2019-05-07T12:52:44+03:00
+                    [date_finish] => 2019-05-07T12:52:44+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222764.5848
+                    [finish] => 1557222764.6173
+                    [duration] => 0.032578945159912
+                    [processing] => 0.0024240016937256
+                    [date_start] => 2019-05-07T12:52:44+03:00
+                    [date_finish] => 2019-05-07T12:52:44+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 141
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 141
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 141
+                    [TITLE] => DriveSavers 3D logo animation
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 2020.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2437
+                    [CONTACT_ID] => 5945
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:29:51+03:00
+                    [DATE_MODIFY] => 2019-05-06T11:29:56+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 25.25
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 80
+                )
+
+            [time] => Array
+                (
+                    [start] => 1557222789.2201
+                    [finish] => 1557222789.2643
+                    [duration] => 0.044245958328247
+                    [processing] => 0.013479948043823
+                    [date_start] => 2019-05-07T12:53:09+03:00
+                    [date_finish] => 2019-05-07T12:53:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1557222789.4089
+                    [finish] => 1557222789.4347
+                    [duration] => 0.025816917419434
+                    [processing] => 0.0052590370178223
+                    [date_start] => 2019-05-07T12:53:09+03:00
+                    [date_finish] => 2019-05-07T12:53:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+

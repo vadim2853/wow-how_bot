@@ -1,0 +1,96 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => edit
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 0
+            [VALUE] => 
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 699
+                    [ACTIVE] => 1
+                    [EMAIL] => iryna.agafonova@wow-how.com
+                    [NAME] => Iryna
+                    [LAST_NAME] => Agafonova
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1993-02-18T03:00:00+03:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/58d/58d0b9377212fc010591b72d95db601a/37688458_226310798211721_8924276041984245760_n.jpg
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => +380990067963
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => 
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1571746136.1397
+                    [finish] => 1571746136.174
+                    [duration] => 0.034299850463867
+                    [processing] => 0.0041658878326416
+                    [date_start] => 2019-10-22T15:08:56+03:00
+                    [date_finish] => 2019-10-22T15:08:56+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 66ffae5d00389e5e00091bec000002bb000003aa733a9f102026e797d4a580d893d114
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+

@@ -1,0 +1,447 @@
+Array
+(
+    [0] => Array
+        (
+            [MODE] => view
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 131
+            [VALUE] => 2211
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 569
+                    [ACTIVE] => 1
+                    [EMAIL] => nataliya.baldina@wow-how.com
+                    [NAME] => Nataliya
+                    [LAST_NAME] => Baldina
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1998-10-11T03:00:00+04:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/905/905ea3d883b8411ad5cc8aca99ad6429/367f9e1c-f036-414b-af3f-28809ba892df.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => 380956373054
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Sales Manager
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1576075889.9655
+                    [finish] => 1576075889.9951
+                    [duration] => 0.029592037200928
+                    [processing] => 0.0035030841827393
+                    [date_start] => 2019-12-11T17:51:29+03:00
+                    [date_finish] => 2019-12-11T17:51:29+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 131
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 8110f15d00389e5e00091bec00000239f0f103a66969b47c4dc10d96ae9be85fecdf8e
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 131
+                    [TITLE] => Keyhole - 18 illustrations for website
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4160.80
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2433
+                    [CONTACT_ID] => 5941
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-06T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-06T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-06T11:22:17+03:00
+                    [DATE_MODIFY] => 2019-06-04T13:13:25+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => CONFERENCE
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 186
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 24.91
+                    [UF_CRM_PROJECT] => 2211
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 661
+                    [UF_CRM_1554889136] => 167
+                )
+
+            [time] => Array
+                (
+                    [start] => 1576075890.2891
+                    [finish] => 1576075890.3234
+                    [duration] => 0.034207105636597
+                    [processing] => 0.01125693321228
+                    [date_start] => 2019-12-11T17:51:30+03:00
+                    [date_finish] => 2019-12-11T17:51:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2211
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => 8110f15d00389e5e00091bec00000239f0f103a66969b47c4dc10d96ae9be85fecdf8e
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2211
+                            [SITE_ID] => s1
+                            [NAME] => Keyhole - 18 illustrations for website
+                            [DESCRIPTION] => Дэдлайн: 31.05.2019
+Ссылка на ДС:  Z:\_WOW-HOW Studio\_ART_PRJ\_Keyhole - 18 illustrations for website
+                            [DATE_CREATE] => 2019-04-22T18:09:46+03:00
+                            [DATE_UPDATE] => 2019-06-06T13:28:04+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => Y
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 579
+                            [KEYWORDS] => 
+                            [NUMBER_OF_MEMBERS] => 11
+                            [DATE_ACTIVITY] => 2019-06-06T13:28:04+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/4bc/4bc736e35fb70fa76e0a237933e56510/Snymok+_krana+2019-05-14+v+17.02.39.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1576075890.5292
+                    [finish] => 1576075890.5729
+                    [duration] => 0.04361891746521
+                    [processing] => 0.020331859588623
+                    [date_start] => 2019-12-11T17:51:30+03:00
+                    [date_finish] => 2019-12-11T17:51:30+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [0] => Array
+        (
+            [MODE] => view
+            [ENTITY_ID] => CRM_DEAL
+            [FIELD_NAME] => UF_CRM_PROJECT
+            [ENTITY_VALUE_ID] => 233
+            [VALUE] => 2257
+            [MULTIPLE] => N
+            [MANDATORY] => N
+            [XML_ID] => 
+        )
+
+    [1] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 569
+                    [ACTIVE] => 1
+                    [EMAIL] => nataliya.baldina@wow-how.com
+                    [NAME] => Nataliya
+                    [LAST_NAME] => Baldina
+                    [SECOND_NAME] => 
+                    [PERSONAL_GENDER] => F
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_BIRTHDAY] => 1998-10-11T03:00:00+04:00
+                    [PERSONAL_PHOTO] => https://cdn.bitrix24.ua/b3162387/main/905/905ea3d883b8411ad5cc8aca99ad6429/367f9e1c-f036-414b-af3f-28809ba892df.png
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => 380956373054
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 
+                    [WORK_COMPANY] => 
+                    [WORK_POSITION] => Sales Manager
+                    [WORK_PHONE] => 
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 239
+                        )
+
+                    [UF_INTERESTS] => 
+                    [UF_SKILLS] => 
+                    [UF_WEB_SITES] => 
+                    [UF_XING] => 
+                    [UF_LINKEDIN] => 
+                    [UF_FACEBOOK] => 
+                    [UF_TWITTER] => 
+                    [UF_SKYPE] => 
+                    [UF_DISTRICT] => 
+                    [UF_PHONE_INNER] => 
+                    [USER_TYPE] => 
+                )
+
+            [time] => Array
+                (
+                    [start] => 1576075929.1152
+                    [finish] => 1576075929.1558
+                    [duration] => 0.040586948394775
+                    [processing] => 0.0038011074066162
+                    [date_start] => 2019-12-11T17:52:09+03:00
+                    [date_finish] => 2019-12-11T17:52:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 233
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => a810f15d00389e5e00091bec00000239f0f10320555d48e510f9dc9d5571a7433fe1ca
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 233
+                    [TITLE] =>  Keyhole - 41 graphic designs for Keyhole page content
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4285.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 0
+                    [CONTACT_ID] => 5997
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-07T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-10T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 467
+                    [CREATED_BY_ID] => 467
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-10T13:13:33+03:00
+                    [DATE_MODIFY] => 2019-05-10T13:13:55+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 2
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                            [1] => 186
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 30.61
+                    [UF_CRM_PROJECT] => 2257
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 661
+                    [UF_CRM_1554889136] => 140
+                )
+
+            [time] => Array
+                (
+                    [start] => 1576075929.4041
+                    [finish] => 1576075929.438
+                    [duration] => 0.03394603729248
+                    [processing] => 0.011795997619629
+                    [date_start] => 2019-12-11T17:52:09+03:00
+                    [date_finish] => 2019-12-11T17:52:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2257
+                )
+
+            [IS_ADMIN] => Y
+        )
+
+    [DOMAIN] => wow-how.bitrix24.ua
+    [AUTH_ID] => a810f15d00389e5e00091bec00000239f0f10320555d48e510f9dc9d5571a7433fe1ca
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1576075929.6123
+                    [finish] => 1576075929.6543
+                    [duration] => 0.042033910751343
+                    [processing] => 0.0046150684356689
+                    [date_start] => 2019-12-11T17:52:09+03:00
+                    [date_finish] => 2019-12-11T17:52:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+

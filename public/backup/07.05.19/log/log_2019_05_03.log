@@ -1,0 +1,2171 @@
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => NEW
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-10T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:41:59+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556872927.6177
+                    [finish] => 1556872928.0185
+                    [duration] => 0.4007580280304
+                    [processing] => 0.023867130279541
+                    [date_start] => 2019-05-03T11:42:07+03:00
+                    [date_finish] => 2019-05-03T11:42:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556872928.2067
+                    [finish] => 1556872928.5866
+                    [duration] => 0.37996602058411
+                    [processing] => 0.0040020942687988
+                    [date_start] => 2019-05-03T11:42:08+03:00
+                    [date_finish] => 2019-05-03T11:42:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => NEW
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-10T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:41:59+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556872971.0719
+                    [finish] => 1556872971.4623
+                    [duration] => 0.39038300514221
+                    [processing] => 0.018326997756958
+                    [date_start] => 2019-05-03T11:42:51+03:00
+                    [date_finish] => 2019-05-03T11:42:51+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556872971.6506
+                    [finish] => 1556872972.0412
+                    [duration] => 0.39062905311584
+                    [processing] => 0.0047609806060791
+                    [date_start] => 2019-05-03T11:42:51+03:00
+                    [date_finish] => 2019-05-03T11:42:52+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 115
+    [VALUE] => 2157
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 115
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 115
+                    [TITLE] => Chomp Studio 10x Genomics 3D video 
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4250.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-08T03:00:00+03:00
+                    [CLOSEDATE] => 2019-04-24T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-04-24T11:11:14+03:00
+                    [DATE_MODIFY] => 2019-04-24T11:12:03+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEB
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 184
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 2157
+                    [UF_CRM_1554297194] => Array
+                        (
+                            [0] => 1500 oplata freelanceru
+                        )
+
+                    [UF_CRM_1554790931287] => 657
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 0
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873037.7579
+                    [finish] => 1556873038.1511
+                    [duration] => 0.39323806762695
+                    [processing] => 0.016056060791016
+                    [date_start] => 2019-05-03T11:43:57+03:00
+                    [date_finish] => 2019-05-03T11:43:58+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2157
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2157
+                            [SITE_ID] => ex
+                            [NAME] => Chomp Studio 10x Genomics 3D video 
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2019-04-05T17:43:00+03:00
+                            [DATE_UPDATE] => 2019-04-05T17:43:00+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => N
+                            [OPENED] => N
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 212
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 8
+                            [DATE_ACTIVITY] => 2019-05-02T16:48:21+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IS_EXTRANET] => Y
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1556873038.339
+                    [finish] => 1556873038.7399
+                    [duration] => 0.40090990066528
+                    [processing] => 0.0086419582366943
+                    [date_start] => 2019-05-03T11:43:58+03:00
+                    [date_finish] => 2019-05-03T11:43:58+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 113
+    [VALUE] => 2139
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 113
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 113
+                    [TITLE] => Qneuro screencast recording
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 1250.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2419
+                    [CONTACT_ID] => 5933
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-04-24T03:00:00+03:00
+                    [CLOSEDATE] => 2019-04-24T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-04-24T11:01:52+03:00
+                    [DATE_MODIFY] => 2019-04-24T11:03:00+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => WEBFORM
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 30.49
+                    [UF_CRM_PROJECT] => 2139
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 41
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873049.2663
+                    [finish] => 1556873049.6949
+                    [duration] => 0.42856812477112
+                    [processing] => 0.02448296546936
+                    [date_start] => 2019-05-03T11:44:09+03:00
+                    [date_finish] => 2019-05-03T11:44:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2139
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2139
+                            [SITE_ID] => s1
+                            [NAME] => Qneuro screencast recording  
+                            [DESCRIPTION] => Создание скринкаста-тьюториала игры с плашками
+Ссылка на ДС: Z:\_WOW-HOW Studio\_VIDEO_PRJ\_Qneuro screencast recording
+                            [DATE_CREATE] => 2019-04-02T10:11:21+03:00
+                            [DATE_UPDATE] => 2019-04-02T10:11:21+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 553
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 10
+                            [DATE_ACTIVITY] => 2019-05-02T18:46:09+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/a4a/a4ae28beadbecd149b97c7f6294505b1/Neuro-Racer-2.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1556873050.1114
+                    [finish] => 1556873050.4916
+                    [duration] => 0.38012886047363
+                    [processing] => 0.011084079742432
+                    [date_start] => 2019-05-03T11:44:10+03:00
+                    [date_finish] => 2019-05-03T11:44:10+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873072.4314
+                    [finish] => 1556873072.8226
+                    [duration] => 0.39119601249695
+                    [processing] => 0.017089128494263
+                    [date_start] => 2019-05-03T11:44:32+03:00
+                    [date_finish] => 2019-05-03T11:44:32+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556873073.0298
+                    [finish] => 1556873073.3966
+                    [duration] => 0.36675596237183
+                    [processing] => 0.0031149387359619
+                    [date_start] => 2019-05-03T11:44:33+03:00
+                    [date_finish] => 2019-05-03T11:44:33+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873167.1113
+                    [finish] => 1556873167.513
+                    [duration] => 0.40169501304626
+                    [processing] => 0.021236896514893
+                    [date_start] => 2019-05-03T11:46:07+03:00
+                    [date_finish] => 2019-05-03T11:46:07+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556873167.7314
+                    [finish] => 1556873168.1124
+                    [duration] => 0.38102602958679
+                    [processing] => 0.0036771297454834
+                    [date_start] => 2019-05-03T11:46:07+03:00
+                    [date_finish] => 2019-05-03T11:46:08+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873295.0005
+                    [finish] => 1556873295.4465
+                    [duration] => 0.44607901573181
+                    [processing] => 0.01948881149292
+                    [date_start] => 2019-05-03T11:48:15+03:00
+                    [date_finish] => 2019-05-03T11:48:15+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873295.5049
+                    [finish] => 1556873295.9305
+                    [duration] => 0.42559313774109
+                    [processing] => 0.037935018539429
+                    [date_start] => 2019-05-03T11:48:15+03:00
+                    [date_finish] => 2019-05-03T11:48:15+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556873295.8287
+                    [finish] => 1556873296.2535
+                    [duration] => 0.42477202415466
+                    [processing] => 0.0088191032409668
+                    [date_start] => 2019-05-03T11:48:15+03:00
+                    [date_finish] => 2019-05-03T11:48:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556873296.2802
+                    [finish] => 1556873296.7297
+                    [duration] => 0.44954514503479
+                    [processing] => 0.010565042495728
+                    [date_start] => 2019-05-03T11:48:16+03:00
+                    [date_finish] => 2019-05-03T11:48:16+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556873565.9467
+                    [finish] => 1556873566.3337
+                    [duration] => 0.38697910308838
+                    [processing] => 0.019544839859009
+                    [date_start] => 2019-05-03T11:52:45+03:00
+                    [date_finish] => 2019-05-03T11:52:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556873566.5325
+                    [finish] => 1556873566.9171
+                    [duration] => 0.38462495803833
+                    [processing] => 0.0034937858581543
+                    [date_start] => 2019-05-03T11:52:46+03:00
+                    [date_finish] => 2019-05-03T11:52:46+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [from] => 2019-03-01
+    [to] => 2019-05-03
+    [projects] => Array
+        (
+            [0] => 1339
+        )
+
+    [domain] => wow-how.bitrix24.ua
+    [auth_id] => 101bcc5c00389e5e00091bec0000023b00000352d509d7111f2c4d53f8cdd2ca0d5d7b
+    [lang] => ua
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 1339
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 1339
+                            [SITE_ID] => s1
+                            [NAME] => test 0001
+                            [DESCRIPTION] => 
+                            [DATE_CREATE] => 2018-09-14T12:28:58+03:00
+                            [DATE_UPDATE] => 2018-09-14T12:28:58+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 1
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 2
+                            [DATE_ACTIVITY] => 2018-09-14T12:28:58+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => Y
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1556876589.0691
+                    [finish] => 1556876589.0916
+                    [duration] => 0.022501945495605
+                    [processing] => 0.0036070346832275
+                    [date_start] => 2019-05-03T12:43:09+03:00
+                    [date_finish] => 2019-05-03T12:43:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.list
+    [PARAMS] => Array
+        (
+            [order] => Array
+                (
+                    [ID] => ASC
+                )
+
+            [filter] => Array
+                (
+                    [>=DATE_CREATE] => 2019-03-01 00:00:00
+                    [<=DATE_CREATE] => 2019-05-03 23:59:59
+                    [UF_CRM_PROJECT] => 1339
+                )
+
+            [select] => Array
+                (
+                    [0] => ID
+                    [1] => DATE_CREATE
+                    [2] => TITLE
+                    [3] => CONTACT_ID
+                    [4] => COMPANY_ID
+                    [5] => LEAD_ID
+                    [6] => STAGE_ID
+                    [7] => CREATED_BY_ID
+                    [8] => ASSIGNED_BY_ID
+                    [9] => OPPORTUNITY
+                    [10] => UF_CRM_1554889136
+                    [11] => UF_CRM_1554297194
+                    [12] => UF_CRM_1549021620
+                )
+
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556876589.2888
+                    [finish] => 1556876589.3388
+                    [duration] => 0.050069808959961
+                    [processing] => 0.03134298324585
+                    [date_start] => 2019-05-03T12:43:09+03:00
+                    [date_finish] => 2019-05-03T12:43:09+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 0
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 0
+        )
+
+    [RESULT] => Array
+        (
+            [error] => 
+            [error_description] => ID is not defined or invalid.
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 123
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 123
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 123
+                    [TITLE] => Угода #123
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => NEW
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => UAH
+                    [OPPORTUNITY] => 0.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2427
+                    [CONTACT_ID] => 
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-10T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 571
+                    [CREATED_BY_ID] => 571
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T12:51:53+03:00
+                    [DATE_MODIFY] => 2019-05-03T12:51:53+03:00
+                    [OPENED] => Y
+                    [CLOSED] => N
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => P
+                    [IS_NEW] => Y
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => N
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => 
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 182
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 0
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 
+                    [UF_CRM_1554791477851] => 
+                    [UF_CRM_1554889136] => 78
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556877117.7624
+                    [finish] => 1556877117.8076
+                    [duration] => 0.045165777206421
+                    [processing] => 0.016942024230957
+                    [date_start] => 2019-05-03T12:51:57+03:00
+                    [date_finish] => 2019-05-03T12:51:57+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556877117.9587
+                    [finish] => 1556877117.9878
+                    [duration] => 0.029093980789185
+                    [processing] => 0.0031530857086182
+                    [date_start] => 2019-05-03T12:51:57+03:00
+                    [date_finish] => 2019-05-03T12:51:57+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556877366.5578
+                    [finish] => 1556877366.5923
+                    [duration] => 0.034456968307495
+                    [processing] => 0.014874219894409
+                    [date_start] => 2019-05-03T12:56:06+03:00
+                    [date_finish] => 2019-05-03T12:56:06+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556877366.7373
+                    [finish] => 1556877366.7655
+                    [duration] => 0.028239965438843
+                    [processing] => 0.0031180381774902
+                    [date_start] => 2019-05-03T12:56:06+03:00
+                    [date_finish] => 2019-05-03T12:56:06+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => edit
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T11:43:46+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556877391.6034
+                    [finish] => 1556877391.6399
+                    [duration] => 0.036489963531494
+                    [processing] => 0.012724876403809
+                    [date_start] => 2019-05-03T12:56:31+03:00
+                    [date_finish] => 2019-05-03T12:56:31+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                )
+
+            [total] => 0
+            [time] => Array
+                (
+                    [start] => 1556877391.8183
+                    [finish] => 1556877391.8426
+                    [duration] => 0.024348974227905
+                    [processing] => 0.0023150444030762
+                    [date_start] => 2019-05-03T12:56:31+03:00
+                    [date_finish] => 2019-05-03T12:56:31+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [MODE] => view
+    [ENTITY_ID] => CRM_DEAL
+    [FIELD_NAME] => UF_CRM_PROJECT
+    [ENTITY_VALUE_ID] => 121
+    [VALUE] => 2127
+    [MULTIPLE] => N
+    [MANDATORY] => N
+    [XML_ID] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса crm.deal.get
+    [PARAMS] => Array
+        (
+            [id] => 121
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [ID] => 121
+                    [TITLE] => Chomp CNECT video
+                    [TYPE_ID] => SALE
+                    [STAGE_ID] => WON
+                    [PROBABILITY] => 
+                    [CURRENCY_ID] => USD
+                    [OPPORTUNITY] => 4550.00
+                    [TAX_VALUE] => 
+                    [LEAD_ID] => 
+                    [COMPANY_ID] => 2421
+                    [CONTACT_ID] => 5937
+                    [QUOTE_ID] => 
+                    [BEGINDATE] => 2019-05-03T03:00:00+03:00
+                    [CLOSEDATE] => 2019-05-03T03:00:00+03:00
+                    [ASSIGNED_BY_ID] => 156
+                    [CREATED_BY_ID] => 156
+                    [MODIFY_BY_ID] => 0
+                    [DATE_CREATE] => 2019-05-03T11:41:58+03:00
+                    [DATE_MODIFY] => 2019-05-03T12:56:42+03:00
+                    [OPENED] => Y
+                    [CLOSED] => Y
+                    [COMMENTS] => 
+                    [ADDITIONAL_INFO] => 
+                    [LOCATION_ID] => 
+                    [CATEGORY_ID] => 0
+                    [STAGE_SEMANTIC_ID] => S
+                    [IS_NEW] => N
+                    [IS_RECURRING] => N
+                    [IS_RETURN_CUSTOMER] => Y
+                    [IS_REPEATED_APPROACH] => N
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                    [UF_CRM_586CDE7F69631] => Array
+                        (
+                            [0] => 178
+                            [1] => 180
+                        )
+
+                    [UF_CRM_586CDE7F77E10] => 
+                    [UF_CRM_586CDE7F93728] => 
+                    [UF_CRM_586CDE7FB4A3A] => 
+                    [UF_CRM_586CDE7FCA1AB] => 
+                    [UF_CRM_586CDE7FD8045] => 
+                    [UF_CRM_586CDE7FE21BE] => 
+                    [UF_CRM_586CDE7FEDC96] => 
+                    [UF_CRM_1549021620] => 26.76
+                    [UF_CRM_PROJECT] => 2127
+                    [UF_CRM_1554297194] => Array
+                        (
+                        )
+
+                    [UF_CRM_1554790931287] => 655
+                    [UF_CRM_1554791477851] => 665
+                    [UF_CRM_1554889136] => 170
+                )
+
+            [time] => Array
+                (
+                    [start] => 1556877403.768
+                    [finish] => 1556877403.8022
+                    [duration] => 0.034199953079224
+                    [processing] => 0.014178991317749
+                    [date_start] => 2019-05-03T12:56:43+03:00
+                    [date_finish] => 2019-05-03T12:56:43+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [FILTER] => Array
+                (
+                    [ID] => 2127
+                )
+
+            [IS_ADMIN] => N
+        )
+
+    [RESULT] => Array
+        (
+            [result] => Array
+                (
+                    [0] => Array
+                        (
+                            [ID] => 2127
+                            [SITE_ID] => s1
+                            [NAME] => Chomp Studio CNECT 2d video
+                            [DESCRIPTION] => Создание 2д видео для компании CNECT
+Хронометраж: 2 минуты
+Сссылка на ДС: /_WOW-HOW Studio/_VIDEO_PRJ/_Chomp Studio CNECT 2d video
+Бриф: https://docs.google.com/document/d/1Wan4Ebtw6Yw3Mz8uSgQ-8vWgZ_zkvgMK3w5VKmAtH20/edit
+с 29.03.2019 по 10.05.2019
+                            [DATE_CREATE] => 2019-03-28T12:32:27+03:00
+                            [DATE_UPDATE] => 2019-04-10T17:39:59+03:00
+                            [ACTIVE] => Y
+                            [VISIBLE] => Y
+                            [OPENED] => Y
+                            [CLOSED] => N
+                            [SUBJECT_ID] => 1
+                            [OWNER_ID] => 218
+                            [KEYWORDS] => ,
+                            [NUMBER_OF_MEMBERS] => 12
+                            [DATE_ACTIVITY] => 2019-05-02T22:21:06+03:00
+                            [SUBJECT_NAME] => Робочі групи
+                            [PROJECT] => N
+                            [IMAGE] => https://cdn.bitrix24.ua/b3162387/socialnetwork/df4/df404a6156c32aeef7a3dfc6920f54b1/cnect.png
+                            [IS_EXTRANET] => N
+                        )
+
+                )
+
+            [total] => 1
+            [time] => Array
+                (
+                    [start] => 1556877403.9499
+                    [finish] => 1556877403.9786
+                    [duration] => 0.028737783432007
+                    [processing] => 0.0047390460968018
+                    [date_start] => 2019-05-03T12:56:43+03:00
+                    [date_finish] => 2019-05-03T12:56:43+03:00
+                )
+
+        )
+
+)
+
+_________________________________
+
