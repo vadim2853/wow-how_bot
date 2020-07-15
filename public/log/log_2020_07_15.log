@@ -1,0 +1,92 @@
+Array
+(
+    [POST] => Array
+        (
+            [from] => 2020-05-15
+            [to] => 2020-07-15
+            [DOMAIN] => 
+            [AUTH_ID] => 
+            [REFRESH_ID] => 
+            [LANG] => 
+            [USER_ID] => 
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [IS_ADMIN] => Y
+            [start] => 0
+        )
+
+    [DOMAIN] => 
+    [AUTH_ID] => 
+    [RESULT] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Нет сделок
+    [RESULT] => 
+)
+
+_________________________________
+
+Array
+(
+    [POST] => Array
+        (
+            [from] => 2020-05-15
+            [to] => 2020-07-15
+            [DOMAIN] => 
+            [AUTH_ID] => 
+            [REFRESH_ID] => 
+            [LANG] => 
+            [USER_ID] => 
+        )
+
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Результат выполнения запроса sonet_group.get
+    [PARAMS] => Array
+        (
+            [ORDER] => Array
+                (
+                    [NAME] => ASC
+                )
+
+            [IS_ADMIN] => Y
+            [start] => 0
+        )
+
+    [DOMAIN] => 
+    [AUTH_ID] => 
+    [RESULT] => 
+)
+
+_________________________________
+
+Array
+(
+    [INFO] => Нет сделок
+    [RESULT] => 
+)
+
+_________________________________
+
